@@ -2,7 +2,7 @@
 
 Project for the BioInformatics course at ITBA.
 
-## Instalation 
+## Installation 
 ```
 python3 -m pip install --user virtualenv
 python3 -m virtualenv env
