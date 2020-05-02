@@ -1,0 +1,585 @@
+LOCUS       NM_021050               6305 bp    mRNA    linear   ROD 25-APR-2020
+DEFINITION  Mus musculus cystic fibrosis transmembrane conductance regulator
+            (Cftr), mRNA.
+ACCESSION   NM_021050 XM_622568
+VERSION     NM_021050.2  GI:116008179
+KEYWORDS    RefSeq; RefSeq Select.
+SOURCE      Mus musculus (house mouse)
+  ORGANISM  Mus musculus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Muridae; Murinae; Mus; Mus.
+REFERENCE   1  (bases 1 to 6305)
+  AUTHORS   Oliver KE, Rauscher R, Mijnders M, Wang W, Wolpert MJ, Maya J,
+            Sabusap CM, Kesterson RA, Kirk KL, Rab A, Braakman I, Hong JS,
+            Hartman JL 4th, Ignatova Z and Sorscher EJ.
+  TITLE     Slowing ribosome velocity restores folding and function of mutant
+            CFTR
+  JOURNAL   J. Clin. Invest. 129 (12), 5236-5253 (2019)
+   PUBMED   31657788
+REFERENCE   2  (bases 1 to 6305)
+  AUTHORS   Wellmerling JH, Chang SW, Kim E, Osman WH, Boyaka PN, Borchers MT
+            and Cormet-Boyaka E.
+  TITLE     Reduced expression of the Ion channel CFTR contributes to airspace
+            enlargement as a consequence of aging and in response to cigarette
+            smoke in mice
+  JOURNAL   Respir. Res. 20 (1), 200 (2019)
+   PUBMED   31477092
+  REMARK    GeneRIF: Aged CFTR knockout mice demonstrated increased alveolar
+            size compared to age-matched wild-type mice.
+            Publication Status: Online-Only
+REFERENCE   3  (bases 1 to 6305)
+  AUTHORS   Gawenis LR, Hodges CA, McHugh DR, Valerio DM, Miron A, Cotton CU,
+            Liu J, Walker NM, Strubberg AM, Gillen AE, Mutolo MJ, Kotzamanis G,
+            Bosch J, Harris A, Drumm ML and Clarke LL.
+  TITLE     A BAC Transgene Expressing Human CFTR under Control of Its
+            Regulatory Elements Rescues Cftr Knockout Mice
+  JOURNAL   Sci Rep 9 (1), 11828 (2019)
+   PUBMED   31413336
+  REMARK    Publication Status: Online-Only
+REFERENCE   4  (bases 1 to 6305)
+  AUTHORS   Huang Y, Arora K, Mun KS, Yang F, Moon C, Yarlagadda S, Jegga A,
+            Weaver T and Naren AP.
+  TITLE     Targeting DNAJB9, a novel ER luminal co-chaperone, to rescue
+            DeltaF508-CFTR
+  JOURNAL   Sci Rep 9 (1), 9808 (2019)
+   PUBMED   31285458
+  REMARK    Publication Status: Online-Only
+REFERENCE   5  (bases 1 to 6305)
+  AUTHORS   Beumer W, Swildens J, Leal T, Noel S, Anthonijsz H, van der Horst
+            G, Kuiperij-Boersma H, Potman M, van Putten C, Biasutto P,
+            Platenburg G, de Jonge H, Henig N and Ritsema T.
+  TITLE     Evaluation of eluforsen, a novel RNA oligonucleotide for
+            restoration of CFTR function in in vitro and murine models of
+            p.Phe508del cystic fibrosis
+  JOURNAL   PLoS ONE 14 (6), e0219182 (2019)
+   PUBMED   31251792
+  REMARK    Publication Status: Online-Only
+REFERENCE   6  (bases 1 to 6305)
+  AUTHORS   Colledge,W.H., Ratcliff,R., Foster,D., Williamson,R. and Evans,M.J.
+  TITLE     Cystic fibrosis mouse with intestinal obstruction
+  JOURNAL   Lancet 340 (8820), 680 (1992)
+   PUBMED   1355249
+REFERENCE   7  (bases 1 to 6305)
+  AUTHORS   Whitsett JA, Dey CR, Stripp BR, Wikenheiser KA, Clark JC, Wert SE,
+            Gregory RJ, Smith AE, Cohn JA, Wilson JM et al.
+  TITLE     Human cystic fibrosis transmembrane conductance regulator directed
+            to respiratory epithelial cells of transgenic mice
+  JOURNAL   Nat. Genet. 2 (1), 13-20 (1992)
+   PUBMED   1284640
+REFERENCE   8  (bases 1 to 6305)
+  AUTHORS   Snouwaert JN, Brigman KK, Latour AM, Malouf NN, Boucher RC,
+            Smithies O and Koller BH.
+  TITLE     An animal model for cystic fibrosis made by gene targeting
+  JOURNAL   Science 257 (5073), 1083-1088 (1992)
+   PUBMED   1380723
+REFERENCE   9  (bases 1 to 6305)
+  AUTHORS   Kelley KA, Stamm S and Kozak CA.
+  TITLE     Expression and chromosome localization of the murine cystic
+            fibrosis transmembrane conductance regulator
+  JOURNAL   Genomics 13 (2), 381-388 (1992)
+   PUBMED   1377165
+REFERENCE   10 (bases 1 to 6305)
+  AUTHORS   Dorin JR, Dickinson P, Emslie E, Clarke AR, Dobbie L, Hooper ML,
+            Halford S, Wainwright BJ and Porteous DJ.
+  TITLE     Successful targeting of the mouse cystic fibrosis transmembrane
+            conductance regulator gene in embryonal stem cells
+  JOURNAL   Transgenic Res. 1 (2), 101-105 (1992)
+   PUBMED   1284480
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AC161826.5, M60493.1 and
+            AC158663.2.
+            On Oct 10, 2006 this sequence version replaced NM_021050.1.
+            
+            Summary: The membrane-associated protein encoded by this gene is a
+            member of the superfamily of ATP-binding cassette (ABC)
+            transporters. ABC proteins transport various molecules across
+            extra- and intra-cellular membranes. ABC genes are divided into
+            seven distinct subfamilies (ABC1, MDR/TAP, MRP, ALD, OABP, GCN20,
+            White). This protein is a member of the MRP subfamily which is
+            involved in multi-drug resistance. This gene encodes the cystic
+            fibrosis transmembrane regulator and a chloride channel that
+            controls the regulation of other transport pathways. Mutations in
+            this gene have been associated with autosomal recessive disorders
+            such as cystic fibrosis and congenital bilateral aplasia of the vas
+            deferens. Alternative splicing of exons 4, 5, and 11 have been
+            observed, but full-length transcripts have not yet been fully
+            described. [provided by RefSeq, Jul 2008].
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: M60493.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMN00849380, SAMN00849381
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            RefSeq Select criteria :: based on single protein-coding transcript
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: complete on the 3' end.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-104               AC161826.5         80404-80507
+            105-5041            M60493.1           106-5042
+            5042-6305           AC158663.2         94059-95322
+FEATURES             Location/Qualifiers
+     source          1..6305
+                     /organism="Mus musculus"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:10090"
+                     /chromosome="6"
+                     /map="6 8.1 cM"
+     gene            1..6305
+                     /gene="Cftr"
+                     /gene_synonym="Abcc7; AW495489"
+                     /note="cystic fibrosis transmembrane conductance
+                     regulator"
+                     /db_xref="GeneID:12638"
+                     /db_xref="MGI:MGI:88388"
+     exon            1..190
+                     /gene="Cftr"
+                     /gene_synonym="Abcc7; AW495489"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             138..4568
+                     /gene="Cftr"
+                     /gene_synonym="Abcc7; AW495489"
+                     /EC_number="5.6.1.6"
+                     /note="ATP-binding cassette, subfamily c, member 7;
+                     cAMP-dependent chloride channel; channel
+                     conductance-controlling ATPase; ATP-binding cassette
+                     transporter sub-family C member 7; ATP-binding cassette
+                     sub-family C member 7; cystic fibrosis transmembrane
+                     conductance regulator homolog; ATP-binding cassette,
+                     subfamily c, member 7"
+                     /codon_start=1
+                     /product="cystic fibrosis transmembrane conductance
+                     regulator"
+                     /protein_id="NP_066388.1"
+                     /db_xref="GI:14141185"
+                     /db_xref="CCDS:CCDS19930.1"
+                     /db_xref="GeneID:12638"
+                     /db_xref="MGI:MGI:88388"
+                     /translation="MQKSPLEKASFISKLFFSWTTPILRKGYRHHLELSDIYQAPSAD
+                     SADHLSEKLEREWDREQASKKNPQLIHALRRCFFWRFLFYGILLYLGEVTKAVQPVLL
+                     GRIIASYDPENKVERSIAIYLGIGLCLLFIVRTLLLHPAIFGLHRIGMQMRTAMFSLI
+                     YKKTLKLSSRVLDKISIGQLVSLLSNNLNKFDEGLALAHFIWIAPLQVTLLMGLLWDL
+                     LQFSAFCGLGLLIILVIFQAILGKMMVKYRDQRAAKINERLVITSEIIDNIYSVKAYC
+                     WESAMEKMIENLREVELKMTRKAAYMRFFTSSAFFFSGFFVVFLSVLPYTVINGIVLR
+                     KIFTTISFCIVLRMSVTRQFPTAVQIWYDSFGMIRKIQDFLQKQEYKVLEYNLMTTGI
+                     IMENVTAFWEEGFGELLEKVQQSNGDRKHSSDENNVSFSHLCLVGNPVLKNINLNIEK
+                     GEMLAITGSTGSGKTSLLMLILGELEASEGIIKHSGRVSFCSQFSWIMPGTIKENIIF
+                     GVSYDEYRYKSVVKACQLQQDITKFAEQDNTVLGEGGVTLSGGQRARISLARAVYKDA
+                     DLYLLDSPFGYLDVFTEEQVFESCVCKLMANKTRILVTSKMEHLRKADKILILHQGSS
+                     YFYGTFSELQSLRPDFSSKLMGYDTFDQFTEERRSSILTETLRRFSVDDSSAPWSKPK
+                     QSFRQTGEVGEKRKNSILNSFSSVRKISIVQKTPLCIDGESDDLQEKRLSLVPDSEQG
+                     EAALPRSNMIATGPTFPGRRRQSVLDLMTFTPNSGSSNLQRTRTSIRKISLVPQISLN
+                     EVDVYSRRLSQDSTLNITEEINEEDLKECFLDDVIKIPPVTTWNTYLRYFTLHKGLLL
+                     VLIWCVLVFLVEVAASLFVLWLLKNNPVNSGNNGTKISNSSYVVIITSTSFYYIFYIY
+                     VGVADTLLALSLFRGLPLVHTLITASKILHRKMLHSILHAPMSTISKLKAGGILNRFS
+                     KDIAILDDFLPLTIFDFIQLVFIVIGAIIVVSALQPYIFLATVPGLVVFILLRAYFLH
+                     TAQQLKQLESEGRSPIFTHLVTSLKGLWTLRAFRRQTYFETLFHKALNLHTANWFMYL
+                     ATLRWFQMRIDMIFVLFFIVVTFISILTTGEGEGTAGIILTLAMNIMSTLQWAVNSSI
+                     DTDSLMRSVSRVFKFIDIQTEESMYTQIIKELPREGSSDVLVIKNEHVKKSDIWPSGG
+                     EMVVKDLTVKYMDDGNAVLENISFSISPGQRVGLLGRTGSGKSTLLSAFLRMLNIKGD
+                     IEIDGVSWNSVTLQEWRKAFGVITQKVFIFSGTFRQNLDPNGKWKDEEIWKVADEVGL
+                     KSVIEQFPGQLNFTLVDGGYVLSHGHKQLMCLARSVLSKAKIILLDEPSAHLDPITYQ
+                     VIRRVLKQAFAGCTVILCEHRIEAMLDCQRFLVIEESNVWQYDSLQALLSEKSIFQQA
+                     ISSSEKMRFFQGRHSSKHKPRTQITALKEETEEEVQETRL"
+     misc_feature    369..431
+                     /gene="Cftr"
+                     /gene_synonym="Abcc7; AW495489"
+                     /note="propagated from UniProtKB/Swiss-Prot (P26361.2);
+                     transmembrane region"
+     misc_feature    504..575
+                     /gene="Cftr"
+                     /gene_synonym="Abcc7; AW495489"
+                     /note="propagated from UniProtKB/Swiss-Prot (P26361.2);
+                     transmembrane region"
+     misc_feature    723..785
+                     /gene="Cftr"
+                     /gene_synonym="Abcc7; AW495489"
+                     /note="propagated from UniProtKB/Swiss-Prot (P26361.2);
+                     transmembrane region"
+     misc_feature    804..866
+                     /gene="Cftr"
+                     /gene_synonym="Abcc7; AW495489"
+                     /note="propagated from UniProtKB/Swiss-Prot (P26361.2);
+                     transmembrane region"
+     misc_feature    1032..1094
+                     /gene="Cftr"
+                     /gene_synonym="Abcc7; AW495489"
+                     /note="propagated from UniProtKB/Swiss-Prot (P26361.2);
+                     transmembrane region"
+     misc_feature    1155..1211
+                     /gene="Cftr"
+                     /gene_synonym="Abcc7; AW495489"
+                     /note="propagated from UniProtKB/Swiss-Prot (P26361.2);
+                     transmembrane region"
+     misc_feature    1782..1784
+                     /gene="Cftr"
+                     /gene_synonym="Abcc7; AW495489"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:P13569; propagated from
+                     UniProtKB/Swiss-Prot (P26361.2); phosphorylation site"
+     misc_feature    2097..2615
+                     /gene="Cftr"
+                     /gene_synonym="Abcc7; AW495489"
+                     /note="propagated from UniProtKB/Swiss-Prot (P26361.2);
+                     Region: Intrinsically disordered R region.
+                     /evidence=ECO:0000250|UniProtKB:P13569"
+     misc_feature    2115..2117
+                     /gene="Cftr"
+                     /gene_synonym="Abcc7; AW495489"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:P13569; propagated from
+                     UniProtKB/Swiss-Prot (P26361.2); phosphorylation site"
+     misc_feature    2145..2147
+                     /gene="Cftr"
+                     /gene_synonym="Abcc7; AW495489"
+                     /note="Phosphoserine, by PKA.
+                     /evidence=ECO:0000250|UniProtKB:P13569; propagated from
+                     UniProtKB/Swiss-Prot (P26361.2); phosphorylation site"
+     misc_feature    2187..2189
+                     /gene="Cftr"
+                     /gene_synonym="Abcc7; AW495489"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:P13569; propagated from
+                     UniProtKB/Swiss-Prot (P26361.2); phosphorylation site"
+     misc_feature    2229..2231
+                     /gene="Cftr"
+                     /gene_synonym="Abcc7; AW495489"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000244|PubMed:21183079; propagated from
+                     UniProtKB/Swiss-Prot (P26361.2); phosphorylation site"
+     misc_feature    2265..2267
+                     /gene="Cftr"
+                     /gene_synonym="Abcc7; AW495489"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:P13569; propagated from
+                     UniProtKB/Swiss-Prot (P26361.2); phosphorylation site"
+     misc_feature    2280..2282
+                     /gene="Cftr"
+                     /gene_synonym="Abcc7; AW495489"
+                     /note="Phosphothreonine.
+                     /evidence=ECO:0000250|UniProtKB:P13569; propagated from
+                     UniProtKB/Swiss-Prot (P26361.2); phosphorylation site"
+     misc_feature    2331..2333
+                     /gene="Cftr"
+                     /gene_synonym="Abcc7; AW495489"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:P13569; propagated from
+                     UniProtKB/Swiss-Prot (P26361.2); phosphorylation site"
+     misc_feature    2424..2426
+                     /gene="Cftr"
+                     /gene_synonym="Abcc7; AW495489"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:P13569; propagated from
+                     UniProtKB/Swiss-Prot (P26361.2); phosphorylation site"
+     misc_feature    2490..2492
+                     /gene="Cftr"
+                     /gene_synonym="Abcc7; AW495489"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:P13569; propagated from
+                     UniProtKB/Swiss-Prot (P26361.2); phosphorylation site"
+     misc_feature    2505..2507
+                     /gene="Cftr"
+                     /gene_synonym="Abcc7; AW495489"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000244|PubMed:21183079; propagated from
+                     UniProtKB/Swiss-Prot (P26361.2); phosphorylation site"
+     misc_feature    2559..2561
+                     /gene="Cftr"
+                     /gene_synonym="Abcc7; AW495489"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:P13569; propagated from
+                     UniProtKB/Swiss-Prot (P26361.2); phosphorylation site"
+     misc_feature    2697..2759
+                     /gene="Cftr"
+                     /gene_synonym="Abcc7; AW495489"
+                     /note="propagated from UniProtKB/Swiss-Prot (P26361.2);
+                     transmembrane region"
+     misc_feature    2802..2804
+                     /gene="Cftr"
+                     /gene_synonym="Abcc7; AW495489"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P26361.2); glycosylation site"
+     misc_feature    2820..2822
+                     /gene="Cftr"
+                     /gene_synonym="Abcc7; AW495489"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P26361.2); glycosylation site"
+     misc_feature    2877..2939
+                     /gene="Cftr"
+                     /gene_synonym="Abcc7; AW495489"
+                     /note="propagated from UniProtKB/Swiss-Prot (P26361.2);
+                     transmembrane region"
+     misc_feature    3093..3155
+                     /gene="Cftr"
+                     /gene_synonym="Abcc7; AW495489"
+                     /note="propagated from UniProtKB/Swiss-Prot (P26361.2);
+                     transmembrane region"
+     misc_feature    3162..3224
+                     /gene="Cftr"
+                     /gene_synonym="Abcc7; AW495489"
+                     /note="propagated from UniProtKB/Swiss-Prot (P26361.2);
+                     transmembrane region"
+     misc_feature    3408..3470
+                     /gene="Cftr"
+                     /gene_synonym="Abcc7; AW495489"
+                     /note="propagated from UniProtKB/Swiss-Prot (P26361.2);
+                     transmembrane region"
+     misc_feature    3513..3575
+                     /gene="Cftr"
+                     /gene_synonym="Abcc7; AW495489"
+                     /note="propagated from UniProtKB/Swiss-Prot (P26361.2);
+                     transmembrane region"
+     misc_feature    4281..4565
+                     /gene="Cftr"
+                     /gene_synonym="Abcc7; AW495489"
+                     /note="propagated from UniProtKB/Swiss-Prot (P26361.2);
+                     Region: Interaction with GORASP2.
+                     /evidence=ECO:0000250|UniProtKB:P13569"
+     misc_feature    4455..4457
+                     /gene="Cftr"
+                     /gene_synonym="Abcc7; AW495489"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:P13569; propagated from
+                     UniProtKB/Swiss-Prot (P26361.2); phosphorylation site"
+     misc_feature    4491..4493
+                     /gene="Cftr"
+                     /gene_synonym="Abcc7; AW495489"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:P13569; propagated from
+                     UniProtKB/Swiss-Prot (P26361.2); phosphorylation site"
+     misc_feature    4557..4565
+                     /gene="Cftr"
+                     /gene_synonym="Abcc7; AW495489"
+                     /note="propagated from UniProtKB/Swiss-Prot (P26361.2);
+                     Region: PDZ-binding.
+                     /evidence=ECO:0000250|UniProtKB:P13569"
+     exon            191..301
+                     /gene="Cftr"
+                     /gene_synonym="Abcc7; AW495489"
+                     /inference="alignment:Splign:2.1.0"
+     exon            302..410
+                     /gene="Cftr"
+                     /gene_synonym="Abcc7; AW495489"
+                     /inference="alignment:Splign:2.1.0"
+     exon            411..626
+                     /gene="Cftr"
+                     /gene_synonym="Abcc7; AW495489"
+                     /inference="alignment:Splign:2.1.0"
+     exon            627..716
+                     /gene="Cftr"
+                     /gene_synonym="Abcc7; AW495489"
+                     /inference="alignment:Splign:2.1.0"
+     exon            717..880
+                     /gene="Cftr"
+                     /gene_synonym="Abcc7; AW495489"
+                     /inference="alignment:Splign:2.1.0"
+     exon            881..1006
+                     /gene="Cftr"
+                     /gene_synonym="Abcc7; AW495489"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1007..1253
+                     /gene="Cftr"
+                     /gene_synonym="Abcc7; AW495489"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1254..1346
+                     /gene="Cftr"
+                     /gene_synonym="Abcc7; AW495489"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1347..1529
+                     /gene="Cftr"
+                     /gene_synonym="Abcc7; AW495489"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1530..1721
+                     /gene="Cftr"
+                     /gene_synonym="Abcc7; AW495489"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1722..1816
+                     /gene="Cftr"
+                     /gene_synonym="Abcc7; AW495489"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1817..1903
+                     /gene="Cftr"
+                     /gene_synonym="Abcc7; AW495489"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1904..2612
+                     /gene="Cftr"
+                     /gene_synonym="Abcc7; AW495489"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2613..2741
+                     /gene="Cftr"
+                     /gene_synonym="Abcc7; AW495489"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2742..2779
+                     /gene="Cftr"
+                     /gene_synonym="Abcc7; AW495489"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2780..3030
+                     /gene="Cftr"
+                     /gene_synonym="Abcc7; AW495489"
+                     /inference="alignment:Splign:2.1.0"
+     exon            3031..3110
+                     /gene="Cftr"
+                     /gene_synonym="Abcc7; AW495489"
+                     /inference="alignment:Splign:2.1.0"
+     exon            3111..3261
+                     /gene="Cftr"
+                     /gene_synonym="Abcc7; AW495489"
+                     /inference="alignment:Splign:2.1.0"
+     exon            3262..3489
+                     /gene="Cftr"
+                     /gene_synonym="Abcc7; AW495489"
+                     /inference="alignment:Splign:2.1.0"
+     exon            3490..3590
+                     /gene="Cftr"
+                     /gene_synonym="Abcc7; AW495489"
+                     /inference="alignment:Splign:2.1.0"
+     exon            3591..3842
+                     /gene="Cftr"
+                     /gene_synonym="Abcc7; AW495489"
+                     /inference="alignment:Splign:2.1.0"
+     exon            3843..3998
+                     /gene="Cftr"
+                     /gene_synonym="Abcc7; AW495489"
+                     /inference="alignment:Splign:2.1.0"
+     exon            3999..4088
+                     /gene="Cftr"
+                     /gene_synonym="Abcc7; AW495489"
+                     /inference="alignment:Splign:2.1.0"
+     exon            4089..4261
+                     /gene="Cftr"
+                     /gene_synonym="Abcc7; AW495489"
+                     /inference="alignment:Splign:2.1.0"
+     exon            4262..4367
+                     /gene="Cftr"
+                     /gene_synonym="Abcc7; AW495489"
+                     /inference="alignment:Splign:2.1.0"
+     exon            4368..6305
+                     /gene="Cftr"
+                     /gene_synonym="Abcc7; AW495489"
+                     /inference="alignment:Splign:2.1.0"
+     STS             6077..6218
+                     /gene="Cftr"
+                     /gene_synonym="Abcc7; AW495489"
+                     /standard_name="Cftr"
+     regulatory      6280..6285
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="Cftr"
+                     /gene_synonym="Abcc7; AW495489"
+ORIGIN      
+        1 aattggaagc aaatgacatc acctcaggtc tgagtaaaag ggacgagcca aaagcattga
+       61 cctggtcctg gatatccaga tgtcgagtcc aacctgaatt tagccgaaca cagacctcat
+      121 tgcctcacgg agacatcatg cagaagtcgc ctttggagaa agccagcttt atctccaaac
+      181 tcttcttcag ctggaccaca ccaattttga ggaaagggta cagacaccac ttggagttgt
+      241 cagacatata ccaagcccct tctgctgatt cagctgacca cttgtctgaa aaactagaaa
+      301 gagaatggga cagagaacaa gcttcaaaaa agaatcccca gcttatccac gcccttcggc
+      361 gatgcttttt ctggagattc ctcttctatg gaattttgct atacctaggg gaagtcacca
+      421 aggctgtcca gcctgtcttg ctaggaagaa tcatagcatc ctatgatcca gaaaacaagg
+      481 tggaacgttc cattgccatt taccttggca taggcttatg ccttctcttc attgtcagga
+      541 cactgcttct tcacccagct atttttggcc ttcatcgcat tggaatgcag atgagaacag
+      601 ctatgtttag cttgatttat aagaagactt taaagttgtc aagccgcgtt cttgataaaa
+      661 taagtattgg acaacttgtt agtcttcttt ccaacaacct gaacaaattt gatgaaggac
+      721 ttgccttggc acattttata tggattgctc ctttacaagt gactcttctg atggggcttc
+      781 tctgggactt gttacagttc tcagccttct gtggccttgg tttactgata atcctggtta
+      841 tttttcaagc tatcctaggg aagatgatgg tgaagtacag agatcagaga gctgcaaaga
+      901 tcaatgaaag actcgtgatc acatcagaaa ttattgataa tatctattct gttaaggcat
+      961 attgttggga atcagcgatg gagaaaatga ttgaaaactt gagagaggtg gagctgaaaa
+     1021 tgacccggaa ggcggcctat atgaggttct tcactagctc tgccttcttc ttttcagggt
+     1081 tctttgtagt ctttctatct gtgcttccct acacagtcat caacggaatc gtcctacgaa
+     1141 aaatattcac aaccatttca ttctgcattg tcctacgtat gtcagtcaca cggcagttcc
+     1201 ccactgccgt acagatatgg tatgattctt ttggaatgat aagaaaaata caggatttcc
+     1261 tgcagaaaca agagtataaa gtactggagt ataacttaat gaccacaggc ataatcatgg
+     1321 aaaatgtaac agcattttgg gaggagggat ttggggaatt actggagaaa gtacaacaaa
+     1381 gcaatggtga cagaaaacat tccagtgatg agaacaatgt cagtttcagt catctctgcc
+     1441 ttgtgggaaa tcctgtgctg aaaaacatca atttgaatat agagaaagga gagatgttgg
+     1501 ctattactgg atctactgga tcaggaaaga catcactcct gatgttgatt ttgggagaac
+     1561 tggaagcttc agagggaatt attaagcaca gtggaagagt ttcattctgc tctcaatttt
+     1621 cttggattat gccgggtact atcaaagaaa atatcatctt tggtgtttcc tatgatgagt
+     1681 acagatataa gagtgttgtc aaagcttgcc aactacagca ggacatcacc aagtttgcag
+     1741 aacaagacaa cacagttctt ggagaaggtg gagtcacact gagtggaggt cagcgtgcaa
+     1801 ggatttcttt agcaagagca gtatataaag atgctgattt gtacctatta gattcccctt
+     1861 ttggatatct agatgttttt actgaagaac aagtatttga aagctgtgtt tgtaaattga
+     1921 tggccaacaa aactaggatt ttggttacat ctaaaatgga acacttaagg aaagctgaca
+     1981 aaatactaat tttgcatcag ggcagtagct atttttatgg gacattttct gagctacaaa
+     2041 gtctacgtcc agacttcagt tcgaaactca tggggtatga tacttttgac cagtttactg
+     2101 aggaaagaag aagttcaatt ctaactgaga ccttacgcag gttctcagta gacgattcct
+     2161 ctgccccgtg gagcaaaccc aaacagtcgt ttagacagac tggagaggtg ggagaaaaaa
+     2221 ggaagaactc tattctaaat tcattcagct ctgtaaggaa aatttccatt gtgcaaaaga
+     2281 ctccattatg tatcgatgga gagtctgatg atctccaaga aaagagactg tccctagttc
+     2341 cggattctga acagggggag gctgctctgc cgcgcagcaa catgatcgcc accggcccca
+     2401 catttccagg cagaagaaga cagtctgttt tggatctgat gacgttcaca cccaactcag
+     2461 gctccagcaa tcttcagagg accagaactt ctattcgaaa aatctcctta gtccctcaga
+     2521 taagcttaaa tgaagtggat gtatattcaa ggagattatc gcaagatagc acactgaaca
+     2581 tcactgaaga aattaacgaa gaagatttaa aggagtgttt tcttgatgat gtgatcaaga
+     2641 tacccccggt gacaacatgg aacacatacc tacgatattt tactctccat aaaggcttac
+     2701 tgctagtgct gatttggtgc gtactggttt ttctggttga ggtggctgct tctttatttg
+     2761 tgttatggtt gcttaaaaac aaccctgtta acagtggaaa caatggtact aaaatttcca
+     2821 atagctccta tgttgtgatc atcaccagta ccagtttcta ttatattttt tacatttacg
+     2881 tgggagtggc tgacactttg cttgccctga gcctcttcag aggtttgccg ctggtgcata
+     2941 cgttaatcac agcatcaaaa attttgcaca ggaaaatgtt acactccatt cttcacgccc
+     3001 ctatgtcgac catcagcaag ctgaaagcag gtgggattct taacagattc tccaaagata
+     3061 tagcaatttt ggatgacttt ctgcctctta ccatttttga cttcattcag ttggtgttca
+     3121 ttgtgattgg agctataata gtcgtctcgg cattacaacc ctacatcttc ctagcaacgg
+     3181 tgccagggct agtagtcttt attttactga gggcctactt ccttcataca gcacagcagc
+     3241 tcaaacaact ggaatctgaa ggcaggagtc caattttcac ccaccttgtg acaagcttaa
+     3301 aaggactctg gacacttcga gccttccgac gccagactta ctttgaaact ctgttccaca
+     3361 aagctctgaa tttgcacact gccaactggt ttatgtatct ggcaaccttg cgctggttcc
+     3421 aaatgagaat agacatgata tttgtcctct tcttcattgt tgttaccttc atctccattt
+     3481 taacaacagg tgaaggagaa ggaacagctg gtattattct aactttagct atgaatatca
+     3541 tgagtacttt gcagtgggct gtgaactcaa gcattgatac agatagcttg atgcgatctg
+     3601 tgagcagagt gtttaagttt attgatatac aaacagaaga aagtatgtac acacagataa
+     3661 ttaaagaact acctagagaa ggatcatctg acgttttagt cattaagaat gagcatgtga
+     3721 agaaaagtga tatctggccc tctggaggcg aaatggttgt caaagacctt actgtgaaat
+     3781 acatggatga tggaaatgcc gtattagaga acatttcttt ttcaataagt cctggacaga
+     3841 gggtggggct cttaggaaga actggatcag gaaaaagtac tttgctttca gcatttttac
+     3901 gaatgttgaa cattaaaggt gatatagaga ttgatggtgt ctcatggaat tcagtgacct
+     3961 tacaagaatg gaggaaagct ttcggagtga taacacagaa agtatttatc ttttctggaa
+     4021 cattcagaca aaacctggat cccaatggaa aatggaaaga tgaagaaata tggaaagttg
+     4081 cagatgaggt tggactcaag tctgtaatag agcagtttcc tggacagctc aactttaccc
+     4141 ttgtggatgg gggttatgtg ctaagccatg gccataagca attaatgtgc ttggcccgat
+     4201 cagttctcag taaggccaag atcatactgc ttgatgagcc cagtgcccat ctagacccca
+     4261 taacatacca agtcattcga cgagttctaa aacaagcctt cgctggttgc acagtcatcc
+     4321 tctgtgaaca caggatagaa gcgatgttgg attgccagcg atttttggtc atagaagaga
+     4381 gcaatgtctg gcagtacgac tcccttcagg cacttctgag tgagaagagt atcttccagc
+     4441 aggccattag ctcctcggaa aagatgaggt tcttccaggg ccgccactcc agcaagcaca
+     4501 agcctcggac gcaaattact gctctgaaag aggagacaga agaagaagtt caagaaaccc
+     4561 gtctctagtg ctgggatgct gaggaagcaa ctcagtgcac tgagtccatt cccagaaccc
+     4621 atgcagaatg aaaaaagcca ggcatttccc atgcttctaa ccccagtgct ggggacacag
+     4681 agacaggtgg atccctgggg ctctgtggca agtgatccta gcccacaaag agagttccag
+     4741 gctgggcacc tgagggacaa tacctgtgga tatactcttg cttccacatg caagtacata
+     4801 tacacatgca tgcacattag tggacataca cacagaaaag caaagaagaa ggaaagaggg
+     4861 aagaaaatag tgcaaataat tgcaaaacga tcatgtatgg agtctgctca tggacttaga
+     4921 ggaggtgaac tctactacct gtgcctttga aagaagggtg aagcctgcga cttgctcttt
+     4981 aagagactgt tttggaagag agttcaaaaa cgttcatatg ggtatgggta actgactttc
+     5041 cagcagtagt caaattgttt gaacttcaga tagttgataa tgaccacttg tgtattgcaa
+     5101 ggcagatttt tctgaaaaca tttgccccct aatagtagct gaaaaagcag ctataaatgc
+     5161 caaccaggtt agtcattcgg cttattgttc agtacagctg gttaatttgc attattgaag
+     5221 aactgaaatt atagtgctta gatataggac aaagtaaaga gaactaaaaa cagtgtctta
+     5281 tataactcaa agcccaactt actttcctct aagatatgta ttgccttcta tacattgtct
+     5341 gccccattcc aagcaaatgt tagaatatta tacaaaatac tgggtggtat tgattgaaag
+     5401 atgcccgaca tctggtgatc tagtaaccca tcaggattaa ggatatccag gtcttggaaa
+     5461 ttaaggttaa gaccatctag ccttactacc gtacagctaa acattcttat taccagaata
+     5521 agacctagga aaagaactgt ttcagtccca taaagtggcc tggataattt ccttgatatg
+     5581 gaaatcgaca cacttatgtt cccagaaagc aacagatctt taagacttct gaagtgaagg
+     5641 aaggttgtgt tagtgcaaac tagtgcagcc cagtgccagg tccaggagtt aacatgtaga
+     5701 caggccatgg actgtgtggg tagatgctca tggaaatgtg cagtagtatg ttcatgtgct
+     5761 ctcagctagc tgtgtgtact tcaaactgtc tccacagagt tgttggggag acactctgaa
+     5821 aaagaattaa ttgtgaatta gttttatata ctttgtttta taatttgtga tgcaaatgaa
+     5881 aatttctctg ggaaatattt attttagtaa taatgtttca aactcatata taacaatgct
+     5941 gtattttaag aatgattaca taatgactta tatttgtata aaataatttt tatatttgaa
+     6001 atgttaactt tttatagcac tagctatttt aaaacagggg agtgaggagg acagggatga
+     6061 taaggatcat tcaacttcat gttgtgaaga cgagctgatg taaatcttgt acccatctgt
+     6121 gtggttctca gacaacacat gctctctttt aatgcagctt tgaagaagat ggtaccaaag
+     6181 gttaagacgg ccccctgatg ggcacatcaa cttctgaact gcaaactaag ctttagagga
+     6241 atgtattata tttattactg taatagaata tcatgtgtca ataaaatcct tttatttgtg
+     6301 tgaaa
+//
+
