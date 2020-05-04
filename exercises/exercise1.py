@@ -10,6 +10,8 @@ from Bio.Alphabet import IUPAC
 
 import regex as re
 
+CODON_LENGTH = 3
+
 
 # returns the versioned name in case filename already existed.
 def unique_file(name):
@@ -22,10 +24,11 @@ def unique_file(name):
 
     return actualname
 
+
 def save_file(output_file_name, protein_record):
     # if output file name already exists we append a number '(n)' indicating version
     output_file_name = unique_file(output_file_name)
-    
+
     if not os.path.exists(os.path.dirname(output_file_name)):
         try:
             os.makedirs(os.path.dirname(output_file_name))
@@ -54,11 +57,13 @@ class Exercise1:
             longest = (0,)
             for seq in nuc_chain, rev_nuc_chain:
                 for m in startCodon.finditer(seq, overlapped=True):
-                    rec = Seq(seq)
-                    if len(rec[m.start():].translate(to_stop=True)) > longest[0]:
-                        # secuence found is longer than the stored one
-                        pro = rec[m.start():].translate(to_stop=True)
-                        longest = (len(pro), str(pro))
+                    rec = Seq(seq)[m.start():]
+                    # we check if sequence is multiple of 3 (codon length)
+                    if len(rec) % CODON_LENGTH == 0:
+                        aux = rec.translate(to_stop=True)
+                        if len(aux) > longest[0]:
+                            pro = aux
+                            longest = (len(pro), str(pro))
 
             protein_record = SeqRecord(Seq(longest[1], IUPAC.protein), id=record.id,
                                        description=record.description + " protein translation")
