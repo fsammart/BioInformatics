@@ -1,50 +1,17 @@
-import sys
-import os
-import itertools as itertools
-import errno
-
 from Bio import SeqIO
 from Bio.SeqRecord import SeqRecord
 from Bio.Seq import Seq
 from Bio.Alphabet import IUPAC
+from exercises.aux import Aux
 
 import regex as re
 
 CODON_LENGTH = 3
 
-
-# returns the versioned name in case filename already existed.
-def unique_file(name):
-    basename, ext = os.path.splitext(name)
-    actualname = "%s%s" % (basename, ext)
-    c = itertools.count()
-    next(c)
-    while os.path.exists(actualname):
-        actualname = "%s (%d)%s" % (basename, next(c), ext)
-
-    return actualname
-
-
-def save_file(output_file_name, protein_record):
-    # if output file name already exists we append a number '(n)' indicating version
-    output_file_name = unique_file(output_file_name)
-
-    if not os.path.exists(os.path.dirname(output_file_name)):
-        try:
-            os.makedirs(os.path.dirname(output_file_name))
-        except OSError as exc:  # Guard against race condition
-            if exc.errno != errno.EEXIST:
-                raise
-
-    with open(output_file_name, "a") as output_handle:
-        SeqIO.write(protein_record, output_handle, "fasta")
-
-
 class Exercise1:
 
     @staticmethod
     def run(input_file_name, output_file_name):
-
         # we are analyzing just one gene for this disease, but the algorithm can process multiple genes.
         records = SeqIO.parse(input_file_name, "gb")
 
@@ -68,4 +35,4 @@ class Exercise1:
             protein_record = SeqRecord(Seq(longest[1], IUPAC.protein), id=record.id,
                                        description=record.description + " protein translation")
 
-            save_file(output_file_name, protein_record)
+            Aux.save_file(output_file_name, protein_record)
