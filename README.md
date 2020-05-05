@@ -10,7 +10,6 @@ source env/bin/activate
 pip install -r requirements.txt
 ```
 ## Run
-### Exercise1 
 ```
 source env/bin/activate
 python3 main.py
@@ -25,7 +24,7 @@ python3 main.py
 #### Steps:
 
 1. Download db at ftp://ftp.ncbi.nlm.nih.gov/blast/db/FASTA/swissprot.gz 
-2. Unzip it in the /excercises directory
+2. Unzip it in the /archives/swissprot directory
 3. Convert it to blast format using the makeblastdb command
 
 
