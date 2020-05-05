@@ -1,48 +1,35 @@
-import sys
 import os
 
 from Bio.Blast import NCBIWWW
 from Bio.Blast.Applications import NcbiblastxCommandline
 from Bio.Blast import NCBIXML
-from enum import Enum
 from exercises.aux import Aux
 
 E_VALUE_THRESH = 10
 RESULTS_XML = "results.xml"
 PROT_DB = "archives/swissprot/swissprot"
-NUC_DB = "nt"
 CMD_BLAST = "/usr/local/ncbi/blast/bin/blastp"
-
-
-class Type(Enum):
-    PROT = 1
-    NUC = 2
 
 
 class Exercise2:
 
     @staticmethod
-    def run(input_file_name, output_file_name, type=Type.PROT, online=False):
-        print("EMPECE")
+    def run(input_file_name, output_file_name, online=False):
         fasta_string = open(input_file_name).read()
 
-        if type is Type.PROT:
-            if online:
-                result_handle = NCBIWWW.qblast("blastp", PROT_DB, fasta_string, expect=E_VALUE_THRESH)
-                with open(RESULTS_XML, "w") as out_handle:
-                    out_handle.write(result_handle.read())
-                result_handle = open(RESULTS_XML)
-            else:
-                blastx_cline = NcbiblastxCommandline(cmd=CMD_BLAST, query=input_file_name, db=PROT_DB,
-                                                     evalue=E_VALUE_THRESH, out=RESULTS_XML, outfmt=5)
-                stdout, stderr = blastx_cline()
-                result_handle = open(RESULTS_XML)
+        if online:
 
-        elif type is Type.NUC:
-            result_handle = NCBIWWW.qblast("blastn", NUC_DB, fasta_string)
+            result_handle = NCBIWWW.qblast("blastp", "swissprot", fasta_string, expect=E_VALUE_THRESH)
+
+            with open(RESULTS_XML, "w") as out_handle:
+                out_handle.write(result_handle.read())
+            result_handle.close()
+            result_handle = open(RESULTS_XML)
         else:
-            print("Invalid type for blast")
-            sys.exit(1)
+            blastx_cline = NcbiblastxCommandline(cmd=CMD_BLAST, query=input_file_name, db=PROT_DB,
+                                                 evalue=E_VALUE_THRESH, out=RESULTS_XML, outfmt=5)
+            stdout, stderr = blastx_cline()
+            result_handle = open(RESULTS_XML)
 
         blast_records = NCBIXML.parse(result_handle)
 

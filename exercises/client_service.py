@@ -2,7 +2,6 @@ import os
 import inquirer
 from exercises.exercise1 import Exercise1
 from exercises.exercise2 import Exercise2
-from exercises.exercise2 import Type
 
 
 class ClientService:
@@ -21,6 +20,8 @@ class ClientService:
     DEFAULT_OUTPUT_EX1 = 'archives/prot_sequences/result.fas'
     INPUT_FILES_DIRECTORY_EX2 = 'archives/prot_sequences/'
     DEFAULT_OUTPUT_EX2 = 'archives/blast/blast.out'
+    STARTED_PROCESSING = 'Processing Started'
+    ENDING_PROCESSING = 'Processing has ended'
 
     MAIN_MENU = [EXERCISE1, EXERCISE2, EXERCISE3, EXERCISE4, EXIT]
     BLAST_INPUT_FORMATS = [PROTEIN, NUCLEIC]
@@ -46,7 +47,9 @@ class ClientService:
                 self.start()
             else:
                 output_file = self.get_output_file(self.DEFAULT_OUTPUT_EX1)
+                print(self.STARTED_PROCESSING)
                 Exercise1.run(chosen_input_file, output_file)
+                print(self.ENDING_PROCESSING)
 
         elif answer == self.EXERCISE2:
             chosen_input_file = self.INPUT_FILES_DIRECTORY_EX2 \
@@ -55,35 +58,32 @@ class ClientService:
                 self.start()
             else:
                 output_file = self.get_output_file(self.DEFAULT_OUTPUT_EX2)
-                blast_format = self.get_menu_answer(menu=self.BLAST_INPUT_FORMATS, message="Is your sequence protein or nucleotide?")
-
-                if blast_format is self.PROTEIN:
-                    blast_format = Type.PROT
-                else:
-                    blast_format = Type.NUC
-
                 online = self.get_menu_answer(menu=self.PROCESSING_TYPES, message="Where do you want to process?")
 
                 if online is self.ONLINE:
                     online = True
                 else:
                     online = False
-
-                Exercise2.run(chosen_input_file, output_file, blast_format, online)
-
+                print(self.STARTED_PROCESSING)
+                Exercise2.run(chosen_input_file, output_file, online)
+                print(self.ENDING_PROCESSING)
         elif answer == self.EXERCISE3:
             chosen_input_file = self.choose_input_file_menu(self.INPUT_FILES_DIRECTORY_EX1)
             if chosen_input_file == self.BACK:
                 self.start()
             else:
+                print(self.STARTED_PROCESSING)
                 Exercise1.run(chosen_input_file, self.DEFAULT_OUTPUT_EX1)
+                print(self.ENDING_PROCESSING)
 
         elif answer == self.EXERCISE4:
             chosen_input_file = self.choose_input_file_menu(self.INPUT_FILES_DIRECTORY_EX1)
             if chosen_input_file == self.BACK:
                 self.start()
             else:
+                print(self.STARTED_PROCESSING)
                 Exercise1.run(chosen_input_file, self.DEFAULT_OUTPUT_EX1)
+                print(self.ENDING_PROCESSING)
 
     def choose_input_file_menu(self, directory=INPUT_FILES_DIRECTORY_EX1, message="Which input file do you choose?"):
         files = self.get_files_from_directory(directory)
