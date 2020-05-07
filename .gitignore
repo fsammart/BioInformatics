@@ -6,8 +6,6 @@ __pycache__/
 *.DS_Store
 .idea/*
 archives/swissprot/
-archives/blast/
-archives/prot_sequences/
 
 # C extensions
 *.so
