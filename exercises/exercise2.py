@@ -32,6 +32,7 @@ class Exercise2:
         blast_records = NCBIXML.parse(result_handle)
 
         output_file_name = Aux.unique_file(output_file_name)
+        print('Saving result in ' + output_file_name + ' file')
 
         for blast_record in blast_records:
             for alignment in blast_record.alignments:

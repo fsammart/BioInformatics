@@ -29,6 +29,7 @@ class Aux:
     def save_file(output_file_name, protein_record):
         # if output file name already exists we append a number '(n)' indicating version
         output_file_name = Aux.unique_file(output_file_name)
+        print('Saving result in ' + output_file_name + ' file')
 
         with open(output_file_name, "a") as output_handle:
             SeqIO.write(protein_record, output_handle, "fasta")
