@@ -5,7 +5,6 @@ import os
 from Bio import SeqIO
 
 
-
 class Aux:
 
     @staticmethod
@@ -18,14 +17,13 @@ class Aux:
                 if exc.errno != errno.EEXIST:
                     raise
         basename, ext = os.path.splitext(name)
-        actualname = "%s%s" % (basename, ext)
+        current_name = "%s%s" % (basename, ext)
         c = itertools.count()
         next(c)
-        while os.path.exists(actualname):
-            actualname = "%s (%d)%s" % (basename, next(c), ext)
+        while os.path.exists(current_name):
+            current_name = "%s(%d)%s" % (basename, next(c), ext)
 
-
-        return actualname
+        return current_name
 
     @staticmethod
     def save_file(output_file_name, protein_record):

@@ -23,7 +23,8 @@ class ClientService:
     INPUT_FILES_DIRECTORY_EX3 = 'archives/msa/'
     DEFAULT_OUTPUT_EX2 = 'archives/blast/blast.out'
     DEFAULT_OUTPUT_EX3 = 'archives/clustal/msa.out'
-    CMD_BLAST = "/usr/local/ncbi/blast/bin/blastp"
+    CMD_BLAST_LINUX = "/usr/bin/blastp"
+    CMD_BLAST_MACOS = "/usr/local/ncbi/blast/bin/blastp"
 
     STARTED_PROCESSING = 'Processing Started'
     ENDING_PROCESSING = 'Processing Ended'
@@ -58,7 +59,7 @@ class ClientService:
                 print(self.ENDING_PROCESSING)
 
         elif answer == self.EXERCISE2:
-            cmd_blast = self.get_output_file(self.CMD_BLAST, message='Where is blast executable located?')
+            cmd_blast = self.get_output_file(self.CMD_BLAST_LINUX, message='Where is blast executable located?')
             chosen_input_file = self.choose_input_file_menu(self.INPUT_FILES_DIRECTORY_EX2)
 
             if chosen_input_file == self.BACK:
