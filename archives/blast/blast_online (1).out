@@ -1,0 +1,836 @@
+****Blast Result****
+sequence: sp|P13569.3| RecName: Full=Cystic fibrosis transmembrane conductance regulator; Short=CFTR; AltName: Full=ATP-binding cassette sub-family C member 7; AltName: Full=Channel conductance-controlling ATPase; AltName: Full=cAMP-dependent chloride channel [Homo sapiens]
+length: 1480
+e value: 0.0
+gaps: 0
+identities: 1480
+positives: 1480
+score: 7896.0
+MQRSPLEKASVVSKLFFSWTRPILRKGYRQRLELSDIYQIPSVDSADNLSEKLEREWDRELASKKNPKLINALRR...
+MQRSPLEKASVVSKLFFSWTRPILRKGYRQRLELSDIYQIPSVDSADNLSEKLEREWDRELASKKNPKLINALRR...
+MQRSPLEKASVVSKLFFSWTRPILRKGYRQRLELSDIYQIPSVDSADNLSEKLEREWDRELASKKNPKLINALRR...
+****Blast Result****
+sequence: sp|Q2IBF6.1| RecName: Full=Cystic fibrosis transmembrane conductance regulator; Short=CFTR; AltName: Full=ATP-binding cassette sub-family C member 7; AltName: Full=Channel conductance-controlling ATPase; AltName: Full=cAMP-dependent chloride channel [Gorilla gorilla gorilla]
+length: 1480
+e value: 0.0
+gaps: 0
+identities: 1474
+positives: 1477
+score: 7865.0
+MQRSPLEKASVVSKLFFSWTRPILRKGYRQRLELSDIYQIPSVDSADNLSEKLEREWDRELASKKNPKLINALRR...
+MQRSPLEKASVVSKLFFSWTRPILRKGYRQRLELSDIYQIPSVDSADNLSEKLEREWDRELASKKNPKLINALRR...
+MQRSPLEKASVVSKLFFSWTRPILRKGYRQRLELSDIYQIPSVDSADNLSEKLEREWDRELASKKNPKLINALRR...
+****Blast Result****
+sequence: sp|Q2QLE5.1| RecName: Full=Cystic fibrosis transmembrane conductance regulator; Short=CFTR; AltName: Full=ATP-binding cassette sub-family C member 7; AltName: Full=Channel conductance-controlling ATPase; AltName: Full=cAMP-dependent chloride channel [Pan troglodytes]
+length: 1480
+e value: 0.0
+gaps: 0
+identities: 1475
+positives: 1477
+score: 7862.0
+MQRSPLEKASVVSKLFFSWTRPILRKGYRQRLELSDIYQIPSVDSADNLSEKLEREWDRELASKKNPKLINALRR...
+MQRSPLEKASVVSKLFFSWTRPILRKGYRQRLELSDIYQIPSVDSADNLSEKLEREWDRELASKKNPKLINALRR...
+MQRSPLEKASVVSKLFFSWTRPILRKGYRQRLELSDIYQIPSVDSADNLSEKLEREWDRELASKKNPKLINALRR...
+****Blast Result****
+sequence: sp|Q2IBE4.1| RecName: Full=Cystic fibrosis transmembrane conductance regulator; Short=CFTR; AltName: Full=ATP-binding cassette sub-family C member 7; AltName: Full=Channel conductance-controlling ATPase; AltName: Full=cAMP-dependent chloride channel [Pongo abelii]
+length: 1480
+e value: 0.0
+gaps: 0
+identities: 1464
+positives: 1474
+score: 7822.0
+MQRSPLEKASVVSKLFFSWTRPILRKGYRQRLELSDIYQIPSVDSADNLSEKLEREWDRELASKKNPKLINALRR...
+MQRSPLEKASVVSKLFFSWTRPIL+KGYRQRLELSDIYQIPS DSADNLSEKLEREWDRELASKKNPKLINALRR...
+MQRSPLEKASVVSKLFFSWTRPILKKGYRQRLELSDIYQIPSADSADNLSEKLEREWDRELASKKNPKLINALRR...
+****Blast Result****
+sequence: sp|Q07DX5.1| RecName: Full=Cystic fibrosis transmembrane conductance regulator; Short=CFTR; AltName: Full=ATP-binding cassette sub-family C member 7; AltName: Full=Channel conductance-controlling ATPase; AltName: Full=cAMP-dependent chloride channel [Nomascus leucogenys]
+length: 1480
+e value: 0.0
+gaps: 0
+identities: 1464
+positives: 1474
+score: 7818.0
+MQRSPLEKASVVSKLFFSWTRPILRKGYRQRLELSDIYQIPSVDSADNLSEKLEREWDRELASKKNPKLINALRR...
+MQRSPLEKASVVSKLFFSWTRPILRKGYRQRLELSDIYQIPS DSADNLSEKLEREWDRELASKKNPKLINALRR...
+MQRSPLEKASVVSKLFFSWTRPILRKGYRQRLELSDIYQIPSADSADNLSEKLEREWDRELASKKNPKLINALRR...
+****Blast Result****
+sequence: sp|Q00553.2| RecName: Full=Cystic fibrosis transmembrane conductance regulator; Short=CFTR; AltName: Full=ATP-binding cassette sub-family C member 7; AltName: Full=Channel conductance-controlling ATPase; AltName: Full=cAMP-dependent chloride channel [Macaca mulatta] >sp|Q7JII7.1| RecName: Full=Cystic fibrosis transmembrane conductance regulator; Short=CFTR; AltName: Full=ATP-binding cassette sub-family C member 7; AltName: Full=Channel conductance-controlling ATPase; AltName: Full=cAMP-dependent chloride channel [Macaca fuscata fuscata] >sp|Q7JII8.1| RecName: Full=Cystic fibrosis transmembrane conductance regulator; Short=CFTR; AltName: Full=ATP-binding cassette sub-family C member 7; AltName: Full=Channel conductance-controlling ATPase; AltName: Full=cAMP-dependent chloride channel [Macaca fascicularis]
+length: 1481
+e value: 0.0
+gaps: 1
+identities: 1455
+positives: 1466
+score: 7763.0
+MQRSPLEKASVVSKLFFSWTRPILRKGYRQRLELSDIYQIPSVDSADNLSEKLEREWDRELASKKNPKLINALRR...
+MQRSPLEKASVVSKLFFSWTRPILRKGYRQRLELSDIYQIPS DSADNLSEKLEREWDRELASKKNPKLINALRR...
+MQRSPLEKASVVSKLFFSWTRPILRKGYRQRLELSDIYQIPSADSADNLSEKLEREWDRELASKKNPKLINALRR...
+****Blast Result****
+sequence: sp|Q9TSP5.1| RecName: Full=Cystic fibrosis transmembrane conductance regulator; Short=CFTR; AltName: Full=ATP-binding cassette sub-family C member 7; AltName: Full=Channel conductance-controlling ATPase; AltName: Full=cAMP-dependent chloride channel [Papio anubis]
+length: 1481
+e value: 0.0
+gaps: 1
+identities: 1456
+positives: 1466
+score: 7762.0
+MQRSPLEKASVVSKLFFSWTRPILRKGYRQRLELSDIYQIPSVDSADNLSEKLEREWDRELASKKNPKLINALRR...
+MQRSPLEKASVVSKLFFSWTRPILRKGYRQRLELSDIYQIPS DSADNLSEKLEREWDRELASKKNPKLINALRR...
+MQRSPLEKASVVSKLFFSWTRPILRKGYRQRLELSDIYQIPSADSADNLSEKLEREWDRELASKKNPKLINALRR...
+****Blast Result****
+sequence: sp|Q9TUQ2.1| RecName: Full=Cystic fibrosis transmembrane conductance regulator; Short=CFTR; AltName: Full=ATP-binding cassette sub-family C member 7; AltName: Full=Channel conductance-controlling ATPase; AltName: Full=cAMP-dependent chloride channel [Macaca nemestrina]
+length: 1481
+e value: 0.0
+gaps: 1
+identities: 1454
+positives: 1466
+score: 7758.0
+MQRSPLEKASVVSKLFFSWTRPILRKGYRQRLELSDIYQIPSVDSADNLSEKLEREWDRELASKKNPKLINALRR...
+MQRSPLEKASVVSKLFFSWTRPILRKGYRQRLELSDIYQIPS DSADNLSEKLEREWDRELASKKNPKLINALRR...
+MQRSPLEKASVVSKLFFSWTRPILRKGYRQRLELSDIYQIPSADSADNLSEKLEREWDRELASKKNPKLINALRR...
+****Blast Result****
+sequence: sp|Q2IBA1.1| RecName: Full=Cystic fibrosis transmembrane conductance regulator; Short=CFTR; AltName: Full=ATP-binding cassette sub-family C member 7; AltName: Full=Channel conductance-controlling ATPase; AltName: Full=cAMP-dependent chloride channel [Chlorocebus aethiops]
+length: 1481
+e value: 0.0
+gaps: 1
+identities: 1455
+positives: 1466
+score: 7754.0
+MQRSPLEKASVVSKLFFSWTRPILRKGYRQRLELSDIYQIPSVDSADNLSEKLEREWDRELASKKNPKLINALRR...
+MQRSPLEKASVVSKLFFSWTRPILRKGYRQRLELSDIYQIPS DSADNLSEKLEREWDRELASKKNPKLINALRR...
+MQRSPLEKASVVSKLFFSWTRPILRKGYRQRLELSDIYQIPSADSADNLSEKLEREWDRELASKKNPKLINALRR...
+****Blast Result****
+sequence: sp|Q07DY5.1| RecName: Full=Cystic fibrosis transmembrane conductance regulator; Short=CFTR; AltName: Full=ATP-binding cassette sub-family C member 7; AltName: Full=Channel conductance-controlling ATPase; AltName: Full=cAMP-dependent chloride channel [Colobus guereza]
+length: 1481
+e value: 0.0
+gaps: 1
+identities: 1447
+positives: 1460
+score: 7706.0
+MQRSPLEKASVVSKLFFSWTRPILRKGYRQRLELSDIYQIPSVDSADNLSEKLEREWDRELASKKNPKLINALRR...
+MQRSPLEKASVVSKLFFSWTRPILRKGYRQRLE SDIYQIPS DSAD LSEKLEREWDRELASKKNPKLINALRR...
+MQRSPLEKASVVSKLFFSWTRPILRKGYRQRLESSDIYQIPSADSADYLSEKLEREWDRELASKKNPKLINALRR...
+****Blast Result****
+sequence: sp|Q2QLF9.1| RecName: Full=Cystic fibrosis transmembrane conductance regulator; Short=CFTR; AltName: Full=ATP-binding cassette sub-family C member 7; AltName: Full=Channel conductance-controlling ATPase; AltName: Full=cAMP-dependent chloride channel [Callithrix jacchus]
+length: 1481
+e value: 0.0
+gaps: 1
+identities: 1435
+positives: 1460
+score: 7663.0
+MQRSPLEKASVVSKLFFSWTRPILRKGYRQRLELSDIYQIPSVDSADNLSEKLEREWDRELASKKNPKLINALRR...
+MQRSPLEKASVVSKLFFSWTRPIL+KGYRQRLELSDIYQIPS DSADNLSEKLEREWDRELASKKNPKLINALRR...
+MQRSPLEKASVVSKLFFSWTRPILKKGYRQRLELSDIYQIPSADSADNLSEKLEREWDRELASKKNPKLINALRR...
+****Blast Result****
+sequence: sp|Q07DV2.1| RecName: Full=Cystic fibrosis transmembrane conductance regulator; Short=CFTR; AltName: Full=ATP-binding cassette sub-family C member 7; AltName: Full=Channel conductance-controlling ATPase; AltName: Full=cAMP-dependent chloride channel [Aotus nancymaae]
+length: 1481
+e value: 0.0
+gaps: 1
+identities: 1433
+positives: 1461
+score: 7659.0
+MQRSPLEKASVVSKLFFSWTRPILRKGYRQRLELSDIYQIPSVDSADNLSEKLEREWDRELASKKNPKLINALRR...
+MQRSPLEKASVVSKLFFSWTRPIL+KGYRQRLELSDIYQIPS DSADNLSEKLEREWDRELASKKNPKLINALRR...
+MQRSPLEKASVVSKLFFSWTRPILKKGYRQRLELSDIYQIPSADSADNLSEKLEREWDRELASKKNPKLINALRR...
+****Blast Result****
+sequence: sp|Q2QLB4.1| RecName: Full=Cystic fibrosis transmembrane conductance regulator; Short=CFTR; AltName: Full=ATP-binding cassette sub-family C member 7; AltName: Full=Channel conductance-controlling ATPase; AltName: Full=cAMP-dependent chloride channel [Plecturocebus moloch]
+length: 1480
+e value: 0.0
+gaps: 0
+identities: 1430
+positives: 1458
+score: 7656.0
+MQRSPLEKASVVSKLFFSWTRPILRKGYRQRLELSDIYQIPSVDSADNLSEKLEREWDRELASKKNPKLINALRR...
+MQRSPLEKASVVSKLFFSWTRPIL+KGYRQRLELSDIYQIPS DSADNLSEKLEREWDRELASKKNPKLINALRR...
+MQRSPLEKASVVSKLFFSWTRPILKKGYRQRLELSDIYQIPSADSADNLSEKLEREWDRELASKKNPKLINALRR...
+****Blast Result****
+sequence: sp|Q09YH0.1| RecName: Full=Cystic fibrosis transmembrane conductance regulator; Short=CFTR; AltName: Full=ATP-binding cassette sub-family C member 7; AltName: Full=Channel conductance-controlling ATPase; AltName: Full=cAMP-dependent chloride channel [Saimiri boliviensis boliviensis]
+length: 1481
+e value: 0.0
+gaps: 1
+identities: 1430
+positives: 1458
+score: 7640.0
+MQRSPLEKASVVSKLFFSWTRPILRKGYRQRLELSDIYQIPSVDSADNLSEKLEREWDRELASKKNPKLINALRR...
+MQRSPLEKASVVSKLFFSWTRP+L+KGYRQRLELSDIYQIPS DSADNLSEKLEREWDRELASKKNPKLINALRR...
+MQRSPLEKASVVSKLFFSWTRPVLKKGYRQRLELSDIYQIPSADSADNLSEKLEREWDRELASKKNPKLINALRR...
+****Blast Result****
+sequence: sp|Q09YK5.1| RecName: Full=Cystic fibrosis transmembrane conductance regulator; Short=CFTR; AltName: Full=ATP-binding cassette sub-family C member 7; AltName: Full=Channel conductance-controlling ATPase; AltName: Full=cAMP-dependent chloride channel [Ateles geoffroyi]
+length: 1480
+e value: 0.0
+gaps: 0
+identities: 1425
+positives: 1458
+score: 7635.0
+MQRSPLEKASVVSKLFFSWTRPILRKGYRQRLELSDIYQIPSVDSADNLSEKLEREWDRELASKKNPKLINALRR...
+MQRSPLEKASVVSKLFFSWTRPIL+KGYRQRLELSDIYQIPS +SADNLSEKLEREWDRELASKKNPKLINALRR...
+MQRSPLEKASVVSKLFFSWTRPILKKGYRQRLELSDIYQIPSANSADNLSEKLEREWDRELASKKNPKLINALRR...
+****Blast Result****
+sequence: sp|Q2QL83.1| RecName: Full=Cystic fibrosis transmembrane conductance regulator; Short=CFTR; AltName: Full=ATP-binding cassette sub-family C member 7; AltName: Full=Channel conductance-controlling ATPase; AltName: Full=cAMP-dependent chloride channel [Microcebus murinus]
+length: 1481
+e value: 0.0
+gaps: 1
+identities: 1386
+positives: 1430
+score: 7248.0
+MQRSPLEKASVVSKLFFSWTRPILRKGYRQRLELSDIYQIPSVDSADNLSEKLEREWDRELASKKNPKLINALRR...
+MQRSPLEKASV+SKLFFSWTRPILRKGYRQRLELSDIYQIPS DSADNLSEKLEREWDRELASKKNPKLINALRR...
+MQRSPLEKASVLSKLFFSWTRPILRKGYRQRLELSDIYQIPSADSADNLSEKLEREWDRELASKKNPKLINALRR...
+****Blast Result****
+sequence: sp|Q2QLA3.1| RecName: Full=Cystic fibrosis transmembrane conductance regulator; Short=CFTR; AltName: Full=ATP-binding cassette sub-family C member 7; AltName: Full=Channel conductance-controlling ATPase; AltName: Full=cAMP-dependent chloride channel [Equus caballus]
+length: 1481
+e value: 0.0
+gaps: 3
+identities: 1383
+positives: 1425
+score: 7213.0
+MQRSPLEKASVVSKLFFSWTRPILRKGYRQRLELSDIYQIPSVDSADNLSEKLEREWDRELASKKNPKLINALRR...
+MQRSPLEKASV+SKLFFSWTRPILRKGYRQRLELSDIYQIPS DSADNLSEKLEREWDREL SKKNPKLINALRR...
+MQRSPLEKASVISKLFFSWTRPILRKGYRQRLELSDIYQIPSADSADNLSEKLEREWDRELVSKKNPKLINALRR...
+****Blast Result****
+sequence: sp|Q6PQZ2.1| RecName: Full=Cystic fibrosis transmembrane conductance regulator; Short=CFTR; AltName: Full=ATP-binding cassette sub-family C member 7; AltName: Full=Channel conductance-controlling ATPase; AltName: Full=cAMP-dependent chloride channel [Sus scrofa]
+length: 1482
+e value: 0.0
+gaps: 2
+identities: 1368
+positives: 1423
+score: 7160.0
+MQRSPLEKASVVSKLFFSWTRPILRKGYRQRLELSDIYQIPSVDSADNLSEKLEREWDRELASKKNPKLINALRR...
+MQRSPLEKAS+ SKLFFSWTRPILRKGYRQRLELSDIY I S DSADNLSEKLEREWDRELASKKNPKLINALRR...
+MQRSPLEKASIFSKLFFSWTRPILRKGYRQRLELSDIYHISSSDSADNLSEKLEREWDRELASKKNPKLINALRR...
+****Blast Result****
+sequence: sp|Q00554.4| RecName: Full=Cystic fibrosis transmembrane conductance regulator; Short=CFTR; AltName: Full=ATP-binding cassette sub-family C member 7; AltName: Full=Channel conductance-controlling ATPase; AltName: Full=cAMP-dependent chloride channel [Oryctolagus cuniculus]
+length: 1481
+e value: 0.0
+gaps: 1
+identities: 1366
+positives: 1419
+score: 7155.0
+MQRSPLEKASVVSKLFFSWTRPILRKGYRQRLELSDIYQIPSVDSADNLSEKLEREWDRELASKKNPKLINALRR...
+MQ+SPLEKA V+SKLFFSWTRPILRKGYRQRLELSDIYQIPS DSADNLSEKLEREWDRELASKK PKLINALRR...
+MQKSPLEKAGVLSKLFFSWTRPILRKGYRQRLELSDIYQIPSADSADNLSEKLEREWDRELASKKKPKLINALRR...
+****Blast Result****
+sequence: sp|Q2QLH0.1| RecName: Full=Cystic fibrosis transmembrane conductance regulator; Short=CFTR; AltName: Full=ATP-binding cassette sub-family C member 7; AltName: Full=Channel conductance-controlling ATPase; AltName: Full=cAMP-dependent chloride channel [Otolemur garnettii]
+length: 1482
+e value: 0.0
+gaps: 2
+identities: 1374
+positives: 1418
+score: 7087.0
+MQRSPLEKASVVSKLFFSWTRPILRKGYRQRLELSDIYQIPSVDSADNLSEKLEREWDRELASKKNPKLINALRR...
+MQRSPLEKASV SKLFFSWTRPILRKGYRQRLELSDIYQIPS DSADNLSEKLEREWDRELASKKNPKLINALRR...
+MQRSPLEKASVFSKLFFSWTRPILRKGYRQRLELSDIYQIPSADSADNLSEKLEREWDRELASKKNPKLINALRR...
+****Blast Result****
+sequence: sp|Q07E42.1| RecName: Full=Cystic fibrosis transmembrane conductance regulator; Short=CFTR; AltName: Full=ATP-binding cassette sub-family C member 7; AltName: Full=Channel conductance-controlling ATPase; AltName: Full=cAMP-dependent chloride channel [Dasypus novemcinctus]
+length: 1482
+e value: 0.0
+gaps: 2
+identities: 1355
+positives: 1411
+score: 7069.0
+MQRSPLEKASVVSKLFFSWTRPILRKGYRQRLELSDIYQIPSVDSADNLSEKLEREWDRELASKKNPKLINALRR...
+MQRSPLEKASV+SKLFFSWTRPILRKGYRQRLELSDIYQIPS DSADNLSEKLEREWDRELASKKNPKLINALRR...
+MQRSPLEKASVISKLFFSWTRPILRKGYRQRLELSDIYQIPSADSADNLSEKLEREWDRELASKKNPKLINALRR...
+****Blast Result****
+sequence: sp|Q00PJ2.1| RecName: Full=Cystic fibrosis transmembrane conductance regulator; Short=CFTR; AltName: Full=ATP-binding cassette sub-family C member 7; AltName: Full=Channel conductance-controlling ATPase; AltName: Full=cAMP-dependent chloride channel [Atelerix albiventris]
+length: 1483
+e value: 0.0
+gaps: 3
+identities: 1360
+positives: 1414
+score: 7007.0
+MQRSPLEKASVVSKLFFSWTRPILRKGYRQRLELSDIYQIPSVDSADNLSEKLEREWDRELASKKNPKLINALRR...
+MQRSPLEKASV+SKLFFSWTRPILRKGYRQRLELSDIYQIPS DSADNLSEKLEREWDRELASKKNPKLINALRR...
+MQRSPLEKASVISKLFFSWTRPILRKGYRQRLELSDIYQIPSTDSADNLSEKLEREWDRELASKKNPKLINALRR...
+****Blast Result****
+sequence: sp|Q07E16.1| RecName: Full=Cystic fibrosis transmembrane conductance regulator; Short=CFTR; AltName: Full=ATP-binding cassette sub-family C member 7; AltName: Full=Channel conductance-controlling ATPase; AltName: Full=cAMP-dependent chloride channel [Mustela putorius furo]
+length: 1484
+e value: 0.0
+gaps: 4
+identities: 1362
+positives: 1425
+score: 6997.0
+MQRSPLEKASVVSKLFFSWTRPILRKGYRQRLELSDIYQIPSVDSADNLSEKLEREWDRELASKKNPKLINALRR...
+MQRSPLEKASV+SKLFFSWTRPIL KGYRQRLELSDIYQIPS DSADNLSEKLEREWDRELASKKNPKLINALRR...
+MQRSPLEKASVLSKLFFSWTRPILTKGYRQRLELSDIYQIPSADSADNLSEKLEREWDRELASKKNPKLINALRR...
+****Blast Result****
+sequence: sp|Q5U820.2| RecName: Full=Cystic fibrosis transmembrane conductance regulator; Short=CFTR; AltName: Full=ATP-binding cassette sub-family C member 7; AltName: Full=Channel conductance-controlling ATPase; AltName: Full=cAMP-dependent chloride channel [Canis lupus familiaris]
+length: 1483
+e value: 0.0
+gaps: 3
+identities: 1336
+positives: 1413
+score: 6983.0
+MQRSPLEKASVVSKLFFSWTRPILRKGYRQRLELSDIYQIPSVDSADNLSEKLEREWDRELASKKNPKLINALRR...
+MQRSPLEKASV+SKLFFSWTRPIL KGYRQRLELSDIYQ+PS DSAD+LSEKLEREWDRELASKKNPKLINALRR...
+MQRSPLEKASVLSKLFFSWTRPILIKGYRQRLELSDIYQVPSTDSADHLSEKLEREWDRELASKKNPKLINALRR...
+****Blast Result****
+sequence: sp|Q108U0.1| RecName: Full=Cystic fibrosis transmembrane conductance regulator; Short=CFTR; AltName: Full=ATP-binding cassette sub-family C member 7; AltName: Full=Channel conductance-controlling ATPase; AltName: Full=cAMP-dependent chloride channel [Loxodonta africana]
+length: 1482
+e value: 0.0
+gaps: 4
+identities: 1347
+positives: 1416
+score: 6943.0
+MQRSPLEKASVVSKLFFSWTRPILRKGYRQRLELSDIYQIPSVDSADNLSEKLEREWDRELASKKNPKLINALRR...
+MQ+SPLE+ASV+SKLFFSW  PILRKGYRQ L+LSDIYQIPSVDSADNLSEKLEREWDRELASKKNPKLINALRR...
+MQKSPLERASVISKLFFSWPGPILRKGYRQHLKLSDIYQIPSVDSADNLSEKLEREWDRELASKKNPKLINALRR...
+****Blast Result****
+sequence: sp|Q00552.2| RecName: Full=Cystic fibrosis transmembrane conductance regulator; Short=CFTR; AltName: Full=ATP-binding cassette sub-family C member 7; AltName: Full=Channel conductance-controlling ATPase; AltName: Full=cAMP-dependent chloride channel [Cavia porcellus]
+length: 1481
+e value: 0.0
+gaps: 1
+identities: 1343
+positives: 1407
+score: 6932.0
+MQRSPLEKASVVSKLFFSWTRPILRKGYRQRLELSDIYQIPSVDSADNLSEKLEREWDRELASKKNPKLINALRR...
+MQ+SPL KASV+SKLFFSWTRPIL+KGYR+RLE+SDIYQ+PS DSADNLSE+LEREWDRELASKKNPKLINALRR...
+MQKSPLVKASVISKLFFSWTRPILKKGYRKRLEVSDIYQVPSADSADNLSEELEREWDRELASKKNPKLINALRR...
+****Blast Result****
+sequence: sp|Q07DW5.1| RecName: Full=Cystic fibrosis transmembrane conductance regulator; Short=CFTR; AltName: Full=ATP-binding cassette sub-family C member 7; AltName: Full=Channel conductance-controlling ATPase; AltName: Full=cAMP-dependent chloride channel [Muntiacus reevesi]
+length: 1481
+e value: 0.0
+gaps: 3
+identities: 1331
+positives: 1394
+score: 6918.0
+MQRSPLEKASVVSKLFFSWTRPILRKGYRQRLELSDIYQIPSVDSADNLSEKLEREWDRELASKKNPKLINALRR...
+MQRSPLEKASVVSKLFFSWTRPIL+KGYRQRLELSDIY I S DSADNLSEKLEREWDRELASKKNPKLINALRR...
+MQRSPLEKASVVSKLFFSWTRPILKKGYRQRLELSDIYHISSSDSADNLSEKLEREWDRELASKKNPKLINALRR...
+****Blast Result****
+sequence: sp|Q09YJ4.1| RecName: Full=Cystic fibrosis transmembrane conductance regulator; Short=CFTR; AltName: Full=ATP-binding cassette sub-family C member 7; AltName: Full=Channel conductance-controlling ATPase; AltName: Full=cAMP-dependent chloride channel [Muntiacus muntjak]
+length: 1481
+e value: 0.0
+gaps: 3
+identities: 1331
+positives: 1394
+score: 6912.0
+MQRSPLEKASVVSKLFFSWTRPILRKGYRQRLELSDIYQIPSVDSADNLSEKLEREWDRELASKKNPKLINALRR...
+MQRSPLEKASVVSKLFFSWTRPIL+KGYRQRLELSDIY I S DSADNLSEKLEREWDRELASKKNPKLINALRR...
+MQRSPLEKASVVSKLFFSWTRPILKKGYRQRLELSDIYHISSSDSADNLSEKLEREWDRELASKKNPKLINALRR...
+****Blast Result****
+sequence: sp|Q00555.2| RecName: Full=Cystic fibrosis transmembrane conductance regulator; Short=CFTR; AltName: Full=ATP-binding cassette sub-family C member 7; AltName: Full=Channel conductance-controlling ATPase; AltName: Full=cAMP-dependent chloride channel [Ovis aries]
+length: 1481
+e value: 0.0
+gaps: 3
+identities: 1334
+positives: 1395
+score: 6873.0
+MQRSPLEKASVVSKLFFSWTRPILRKGYRQRLELSDIYQIPSVDSADNLSEKLEREWDRELASKKNPKLINALRR...
+MQRSPLEKASVVSKLFFSWTRPIL+KGYRQRLELSDIY I S DSADNLSEKLEREWDRELASKKNPKLINALRR...
+MQRSPLEKASVVSKLFFSWTRPILKKGYRQRLELSDIYHISSSDSADNLSEKLEREWDRELASKKNPKLINALRR...
+****Blast Result****
+sequence: sp|P35071.2| RecName: Full=Cystic fibrosis transmembrane conductance regulator; Short=CFTR; AltName: Full=ATP-binding cassette sub-family C member 7; AltName: Full=Channel conductance-controlling ATPase; AltName: Full=cAMP-dependent chloride channel [Bos taurus]
+length: 1481
+e value: 0.0
+gaps: 3
+identities: 1333
+positives: 1396
+score: 6873.0
+MQRSPLEKASVVSKLFFSWTRPILRKGYRQRLELSDIYQIPSVDSADNLSEKLEREWDRELASKKNPKLINALRR...
+MQRSPLEKASVVSKLFFSWTRPIL+KGYRQRLELSDIY I S DSADNLSEKLEREWDRELASKKNPKLINALRR...
+MQRSPLEKASVVSKLFFSWTRPILKKGYRQRLELSDIYHISSSDSADNLSEKLEREWDRELASKKNPKLINALRR...
+****Blast Result****
+sequence: sp|Q2IBB3.1| RecName: Full=Cystic fibrosis transmembrane conductance regulator; Short=CFTR; AltName: Full=ATP-binding cassette sub-family C member 7; AltName: Full=Channel conductance-controlling ATPase; AltName: Full=cAMP-dependent chloride channel [Rhinolophus ferrumequinum]
+length: 1482
+e value: 0.0
+gaps: 2
+identities: 1332
+positives: 1405
+score: 6865.0
+MQRSPLEKASVVSKLFFSWTRPILRKGYRQRLELSDIYQIPSVDSADNLSEKLEREWDRELASKKNPKLINALRR...
+MQRSPLEKASV+SKLFFSWT PIL+KGYRQRLELSDIYQI S DSADNLSEKLEREWDRELASKKNPKLINAL+R...
+MQRSPLEKASVISKLFFSWTIPILKKGYRQRLELSDIYQISSADSADNLSEKLEREWDRELASKKNPKLINALQR...
+****Blast Result****
+sequence: sp|Q2QLC5.1| RecName: Full=Cystic fibrosis transmembrane conductance regulator; Short=CFTR; AltName: Full=ATP-binding cassette sub-family C member 7; AltName: Full=Channel conductance-controlling ATPase; AltName: Full=cAMP-dependent chloride channel [Carollia perspicillata]
+length: 1482
+e value: 0.0
+gaps: 2
+identities: 1317
+positives: 1394
+score: 6778.0
+MQRSPLEKASVVSKLFFSWTRPILRKGYRQRLELSDIYQIPSVDSADNLSEKLEREWDRELASKKNPKLINALRR...
+MQRSPLEKASVVSKLFFSWTRPIL+KGYRQRLELSDIYQIPS DSADNLSE LEREWDRELASKKNPKLINALRR...
+MQRSPLEKASVVSKLFFSWTRPILKKGYRQRLELSDIYQIPSADSADNLSEILEREWDRELASKKNPKLINALRR...
+****Blast Result****
+sequence: sp|Q2QL74.1| RecName: Full=Cystic fibrosis transmembrane conductance regulator; Short=CFTR; AltName: Full=ATP-binding cassette sub-family C member 7; AltName: Full=Channel conductance-controlling ATPase; AltName: Full=cAMP-dependent chloride channel [Didelphis virginiana]
+length: 1482
+e value: 0.0
+gaps: 4
+identities: 1283
+positives: 1393
+score: 6686.0
+MQRSPLEKASVVSKLFFSWTRPILRKGYRQRLELSDIYQIPSVDSADNLSEKLEREWDRELASKKNPKLINALRR...
+MQRSPLEKA+ +SKLFFSWTRPILRKG+RQRLELSDIYQIP  +SAD LSE LEREWDRELASKK PKLINALRR...
+MQRSPLEKANFLSKLFFSWTRPILRKGFRQRLELSDIYQIPLSNSADYLSENLEREWDRELASKKKPKLINALRR...
+****Blast Result****
+sequence: sp|Q5D1Z7.1| RecName: Full=Cystic fibrosis transmembrane conductance regulator; Short=CFTR; AltName: Full=ATP-binding cassette sub-family C member 7; AltName: Full=Channel conductance-controlling ATPase; AltName: Full=cAMP-dependent chloride channel [Trichosurus vulpecula]
+length: 1478
+e value: 0.0
+gaps: 8
+identities: 1272
+positives: 1389
+score: 6612.0
+MQRSPLEKASVVSKLFFSWTRPILRKGYRQRLELSDIYQIPSVDSADNLSEKLEREWDRELASKKNPKLINALRR...
+MQRSPLEKA+V SKLFFSWTRPIL+KG+R+RLELSDIYQIPS +SAD+LSEKLEREWDRELASKK PKLINALRR...
+MQRSPLEKANVFSKLFFSWTRPILKKGFRRRLELSDIYQIPSCNSADHLSEKLEREWDRELASKKKPKLINALRR...
+****Blast Result****
+sequence: sp|Q07DZ6.1| RecName: Full=Cystic fibrosis transmembrane conductance regulator; Short=CFTR; AltName: Full=ATP-binding cassette sub-family C member 7; AltName: Full=Channel conductance-controlling ATPase; AltName: Full=cAMP-dependent chloride channel [Ornithorhynchus anatinus]
+length: 1484
+e value: 0.0
+gaps: 8
+identities: 1236
+positives: 1368
+score: 6464.0
+MQRSPLEKASVVSKLFFSWTRPILRKGYRQRLELSDIYQIPSVDSADNLSEKLEREWDRELASKKNPKLINALRR...
+MQRSPLE+A++ SKLFFSWT+PIL+KGYRQ LELSDIYQIP+ DSADNLSEKLEREWDRELASKKNPKLINALRR...
+MQRSPLERANLFSKLFFSWTKPILKKGYRQHLELSDIYQIPTADSADNLSEKLEREWDRELASKKNPKLINALRR...
+****Blast Result****
+sequence: sp|P26361.2| RecName: Full=Cystic fibrosis transmembrane conductance regulator; Short=CFTR; AltName: Full=ATP-binding cassette sub-family C member 7; AltName: Full=Channel conductance-controlling ATPase; AltName: Full=cAMP-dependent chloride channel [Mus musculus]
+length: 1476
+e value: 0.0
+gaps: 6
+identities: 1162
+positives: 1315
+score: 6064.0
+MQRSPLEKASVVSKLFFSWTRPILRKGYRQRLELSDIYQIPSVDSADNLSEKLEREWDRELASKKNPKLINALRR...
+MQ+SPLEKAS +SKLFFSWT PILRKGYR  LELSDIYQ PS DSAD+LSEKLEREWDRE ASKKNP+LI+ALRR...
+MQKSPLEKASFISKLFFSWTTPILRKGYRHHLELSDIYQAPSADSADHLSEKLEREWDREQASKKNPQLIHALRR...
+****Blast Result****
+sequence: sp|P26363.1| RecName: Full=Cystic fibrosis transmembrane conductance regulator; Short=CFTR; AltName: Full=ATP-binding cassette sub-family C member 7; AltName: Full=Channel conductance-controlling ATPase; AltName: Full=cAMP-dependent chloride channel [Xenopus laevis]
+length: 1485
+e value: 0.0
+gaps: 23
+identities: 1148
+positives: 1310
+score: 5936.0
+MQRSPLEKASVVSKLFFSWTRPILRKGYRQRLELSDIYQIPSVDSADNLSEKLEREWDRELA-SKKNPKLINALR...
+MQ++PLEKAS+ S++FFSWT+PIL KGYRQRLELSDIYQI   DSADNLSE+LEREWDRE+A SKKNPKLINAL+...
+MQKTPLEKASIFSQIFFSWTKPILWKGYRQRLELSDIYQIHPGDSADNLSERLEREWDREVATSKKNPKLINALK...
+****Blast Result****
+sequence: sp|P34158.3| RecName: Full=Cystic fibrosis transmembrane conductance regulator; Short=CFTR; AltName: Full=ATP-binding cassette sub-family C member 7; AltName: Full=Channel conductance-controlling ATPase; AltName: Full=cAMP-dependent chloride channel [Rattus norvegicus]
+length: 1476
+e value: 0.0
+gaps: 6
+identities: 1154
+positives: 1305
+score: 5910.0
+MQRSPLEKASVVSKLFFSWTRPILRKGYRQRLELSDIYQIPSVDSADNLSEKLEREWDRELASKKNPKLINALRR...
+MQ+SPLEKAS +SKLFFSWT PILRKGYR  LELSDIYQ PS DSAD+LSEKLEREWDRE ASKK P+LI+ALRR...
+MQKSPLEKASFISKLFFSWTTPILRKGYRHHLELSDIYQAPSSDSADHLSEKLEREWDREQASKKKPQLIHALRR...
+****Blast Result****
+sequence: sp|P26362.1| RecName: Full=Cystic fibrosis transmembrane conductance regulator; Short=CFTR; AltName: Full=ATP-binding cassette sub-family C member 7; AltName: Full=Channel conductance-controlling ATPase; AltName: Full=Dogfish transmembrane conductance regulator; AltName: Full=cAMP-dependent chloride channel [Squalus acanthias]
+length: 1492
+e value: 0.0
+gaps: 22
+identities: 1069
+positives: 1251
+score: 5516.0
+MQRSPLEKASVVSKLFFSWTRPILRKGYRQRLELSDIYQIPSVDSADNLSEKLEREWDRELA-SKKNPKLINALR...
+MQRSP+EKA+  SKLFF W RPIL+KGYRQ+LELSDIYQIPS DSAD LSE LEREWDRELA SKKNPKL+NALR...
+MQRSPIEKANAFSKLFFRWPRPILKKGYRQKLELSDIYQIPSSDSADELSEMLEREWDRELATSKKNPKLVNALR...
+****Blast Result****
+sequence: sp|Q1LX78.1| RecName: Full=Cystic fibrosis transmembrane conductance regulator; AltName: Full=ATP-binding cassette sub-family C member 7; AltName: Full=Channel conductance-controlling ATPase; AltName: Full=cAMP-dependent chloride channel [Danio rerio]
+length: 1485
+e value: 0.0
+gaps: 47
+identities: 833
+positives: 1132
+score: 4408.0
+MQRSPLEKASVVSKLFFSWTRPILRKGYRQRLELSDIYQIPSVDSADNLSEKLEREWDRELAS-KKNPKLINALR...
+MQRSP+E A+ +S+ FF WT PI+RKG++++L  SD+YQ PS D+AD L+E+LE+EWDRE+AS KK P L+ A+ ...
+MQRSPVEDANCLSRYFFWWTNPIMRKGFKEKLRPSDVYQAPSQDAADILAERLEKEWDREVASGKKKPSLLRAMA...
+****Blast Result****
+sequence: sp|Q5F364.1| RecName: Full=Multidrug resistance-associated protein 1; AltName: Full=ATP-binding cassette sub-family C member 1; AltName: Full=Leukotriene C(4) transporter; Short=LTC4 transporter [Gallus gallus]
+length: 1525
+e value: 8.28251e-146
+gaps: 232
+identities: 388
+positives: 676
+score: 1255.0
+PLEKASVVSKLFFSWTRPILRKGYRQRLELSDIYQIPSVDSADNLSEKLEREWDRELA------------SKKNP...
+P   AS +S++ F W   ++ +G+R+ LE  D++ +   D+++ +   L + W +E A            SKK  ...
+PEFSASFLSRITFWWITGLMIQGHRRPLEAKDLWSLNKEDTSEEIVPGLAKNWAKEWAKTKRQPLNMLYSSKKQQ...
+****Blast Result****
+sequence: sp|Q5F364.1| RecName: Full=Multidrug resistance-associated protein 1; AltName: Full=ATP-binding cassette sub-family C member 1; AltName: Full=Leukotriene C(4) transporter; Short=LTC4 transporter [Gallus gallus]
+length: 1525
+e value: 7.51041e-13
+gaps: 17
+identities: 58
+positives: 110
+score: 189.0
+GQMTVKDLTAKYTEGGNAILENISFSISPGQRVGLLGRTGSGKSTLLSAFLRLLN-TEGEIQIDGVSWDSITLQQ...
+G + VK+ T  +++     L +I+F++  G  + ++G+ G GKS+LLSA L  ++  EG + + G          ...
+GSIVVKNATFSWSKTDPPSLNSINFTVPEGSLIAVVGQVGCGKSSLLSALLGEMDKKEGYVVVKG----------...
+****Blast Result****
+sequence: sp|O15439.3| RecName: Full=Multidrug resistance-associated protein 4; AltName: Full=ATP-binding cassette sub-family C member 4; AltName: Full=MRP/cMOAT-related ABC transporter; AltName: Full=Multi-specific organic anion transporter B; Short=MOAT-B [Homo sapiens]
+length: 1325
+e value: 3.44387e-123
+gaps: 42
+identities: 223
+positives: 371
+score: 1081.0
+MQRSPLEKASVVSKLFFSWTRPILRKGYRQRLELSDIYQIPSVDSADNLSEKLEREWDRELASKKN----PKLIN...
+++ +PL+ A++ S++FF W  P+ + G+++RLE  D+Y +   D + +L E+L+  WD+E+   +N    P L  ...
+VKPNPLQDANLCSRVFFWWLNPLFKIGHKRRLEEDDMYSVLPEDRSQHLGEELQGFWDKEVLRAENDAQKPSLTR...
+****Blast Result****
+sequence: sp|O15439.3| RecName: Full=Multidrug resistance-associated protein 4; AltName: Full=ATP-binding cassette sub-family C member 4; AltName: Full=MRP/cMOAT-related ABC transporter; AltName: Full=Multi-specific organic anion transporter B; Short=MOAT-B [Homo sapiens]
+length: 1325
+e value: 9.25262e-114
+gaps: 24
+identities: 216
+positives: 339
+score: 1011.0
+WCLVIFLAEVAASLVVLWLLGNTPLQDKGNSTHSRN---NSYAVIITSTSSYYVFYIYVGVADTLLAMGFFRGLP...
+W + IFL  +  +  V ++L +  L    N     N   N    +       +   IY G+    +  G  R L ...
+WIVFIFLILLNTAAQVAYVLQDWWLSYWANKQSMLNVTVNGGGNVTEKLDLNWYLGIYSGLTVATVLFGIARSLL...
+****Blast Result****
+sequence: sp|O15439.3| RecName: Full=Multidrug resistance-associated protein 4; AltName: Full=ATP-binding cassette sub-family C member 4; AltName: Full=MRP/cMOAT-related ABC transporter; AltName: Full=Multi-specific organic anion transporter B; Short=MOAT-B [Homo sapiens]
+length: 1325
+e value: 7.63507e-16
+gaps: 18
+identities: 65
+positives: 117
+score: 215.0
+PSGGQ--MTVKDLTAKYTEGGNA-ILENISFSISPGQRVGLLGRTGSGKSTLLSAFL-RLLNTEGEIQIDGVSWD...
+PS G+  + V+D TA + +      L+ +SF++ PG+ + ++G  G+GKS+LLSA L  L  + G + + G    ...
+PSDGKKMVHVQDFTAFWDKASETPTLQGLSFTVRPGELLAVVGPVGAGKSSLLSAVLGELAPSHGLVSVHG----...
+****Blast Result****
+sequence: sp|O15439.3| RecName: Full=Multidrug resistance-associated protein 4; AltName: Full=ATP-binding cassette sub-family C member 4; AltName: Full=MRP/cMOAT-related ABC transporter; AltName: Full=Multi-specific organic anion transporter B; Short=MOAT-B [Homo sapiens]
+length: 1325
+e value: 3.32754e-10
+gaps: 21
+identities: 58
+positives: 103
+score: 167.0
+LFFSNFSLLGTP----VLKDINFKIERGQLLAVAGSTGAGKTSLLMVIMGELEPSEGKI-----------KHSGR...
++ F N + + +P    VLK +   I+  + + + G TGAGK+SL+  +    EP EGKI            H  R...
+IIFDNVNFMYSPGGPLVLKHLTALIKSQEKVGIVGRTGAGKSSLISALFRLSEP-EGKIWIDKILTTEIGLHDLR...
+****Blast Result****
+sequence: sp|P91660.4| RecName: Full=Probable multidrug resistance-associated protein lethal(2)03659; AltName: Full=Wunen region A protein [Drosophila melanogaster]
+length: 1374
+e value: 8.06168e-100
+gaps: 35
+identities: 202
+positives: 351
+score: 908.0
+MQRSPLEKASVVSKLFFSWTRPILRKGYRQRLELSDIYQIPSVDSADNLSEKLEREWDRELASK-KNPKLINALR...
++  +P  +++ +S L F +T PI RKGYR+ L+ +D+Y+      +D L  +L   W+REL +  ++P L+ AL ...
+LPENPRARSNFISSLCFWYTIPIFRKGYRKTLDSTDLYRPLEEQKSDILGNRLCASWERELKNDGRSPSLVRALL...
+****Blast Result****
+sequence: sp|P91660.4| RecName: Full=Probable multidrug resistance-associated protein lethal(2)03659; AltName: Full=Wunen region A protein [Drosophila melanogaster]
+length: 1374
+e value: 3.14729e-89
+gaps: 23
+identities: 169
+positives: 297
+score: 826.0
+LHHKMLHSVLQAPMSTLNTLKAGGILNRFSKDIAILDDLLPLTIFDFIQLLLIVIGAIAVVAVLQPYIFVATVPV...
+LH+ + + V +A M   +  K G ILNRF+KD++ +D++LP+ + D +Q+ L + G I V+A + P + V T+ +...
+LHNTIFNRVTRADMHFFSINKHGSILNRFTKDMSQVDEVLPVVLVDVMQIALWLAGIIIVIANVNPLLLVPTLML...
+****Blast Result****
+sequence: sp|P91660.4| RecName: Full=Probable multidrug resistance-associated protein lethal(2)03659; AltName: Full=Wunen region A protein [Drosophila melanogaster]
+length: 1374
+e value: 3.997e-21
+gaps: 58
+identities: 130
+positives: 241
+score: 260.0
+HTLITVSKILHHKMLHSVLQAPMSTLNTLKAGGILNRFSKDIAILDD---------LLPLTIFDFIQLLLIVIGA...
+H    +   +   +    L+     L    +G ++N  S DI  LD          + PL +     L+   IG ...
+HVCFKMRVAMGSMIFRKALRLTKGALGDTTSGHVVNLISNDIPRLDSAPYTVHYLWVGPLQVLVITYLMYQEIGI...
+****Blast Result****
+sequence: sp|P91660.4| RecName: Full=Probable multidrug resistance-associated protein lethal(2)03659; AltName: Full=Wunen region A protein [Drosophila melanogaster]
+length: 1374
+e value: 2.97446e-11
+gaps: 71
+identities: 104
+positives: 228
+score: 176.0
+DNKEERSIAIYLGIGLCLLFIVRTLLLHPAIFGLHHIGMQMRIAMFSLIYKKTLKLSSRVLDKISIGQLVSLLSN...
+++ E +S+ +Y      L+ I+  ++   + F L +I  +  I + + I+ +  +           G +++  + ...
+EDMESKSMDVY---KYTLIIILSVIMNLSSSFLLFNIAKKASIRLHNTIFNRVTRADMHFFSINKHGSILNRFTK...
+****Blast Result****
+sequence: sp|Q10185.1| RecName: Full=ATP-binding cassette transporter abc2; Short=ABC transporter abc2; AltName: Full=ATP-energized glutathione S-conjugate pump abc2; AltName: Full=Glutathione S-conjugate-transporting ATPase abc2 [Schizosaccharomyces pombe 972h-]
+length: 1478
+e value: 2.21731e-84
+gaps: 23
+identities: 174
+positives: 282
+score: 789.0
+VHTLITVSKILHHKMLHSVLQAPMSTLNTLKAGGILNRFSKDIAILDDLLPLTIFDFIQLLLIVIGAIAVVAVLQ...
+V   I   + LH  M+ +VL+APMS   T   G ILNRFS D+  +D+++      F + L  ++  +AV+    ...
+VFCAIKSCRYLHDSMVKAVLRAPMSFFETTPTGRILNRFSSDVYRVDEVISRVFMFFFRNLFQIVFVLAVICYSS...
+****Blast Result****
+sequence: sp|Q10185.1| RecName: Full=ATP-binding cassette transporter abc2; Short=ABC transporter abc2; AltName: Full=ATP-energized glutathione S-conjugate pump abc2; AltName: Full=Glutathione S-conjugate-transporting ATPase abc2 [Schizosaccharomyces pombe 972h-]
+length: 1478
+e value: 2.00381e-63
+gaps: 73
+identities: 197
+positives: 341
+score: 617.0
+MQRSPLEKASVVSKLFFSWTRPILRKGYRQRLELSDIYQIPSVDSADNLSEKLEREWDRELASKKNPKLINALRR...
+++ S    A++ S++ F W  P+++ GYR  L  SD + +P  + + NL+   E+ W      KK+   +  +  ...
+LRPSRFTYANIFSRISFGWLSPLMKFGYRNYLTESDAWSLPPAERSSNLTIVFEKNWISHAKKKKSSLYMWGVLF...
+****Blast Result****
+sequence: sp|Q10185.1| RecName: Full=ATP-binding cassette transporter abc2; Short=ABC transporter abc2; AltName: Full=ATP-energized glutathione S-conjugate pump abc2; AltName: Full=Glutathione S-conjugate-transporting ATPase abc2 [Schizosaccharomyces pombe 972h-]
+length: 1478
+e value: 3.22539e-10
+gaps: 14
+identities: 50
+positives: 93
+score: 167.0
+VLKDINFKIERGQLLAVAGSTGAGKTSLLMVIMGELEPSEGKIK-----------HS--GRISFCSQFSWIMPGT...
+VL DI+  I+  + + + G TGAGK++L + +   +EP+ G I+           H    R++   Q +    GT...
+VLNDISVNIKPQEKIGIVGRTGAGKSTLTLALFRLIEPTSGDIQLDDINITSIGLHDLRSRLAIIPQENQAFEGT...
+****Blast Result****
+sequence: sp|Q10185.1| RecName: Full=ATP-binding cassette transporter abc2; Short=ABC transporter abc2; AltName: Full=ATP-energized glutathione S-conjugate pump abc2; AltName: Full=Glutathione S-conjugate-transporting ATPase abc2 [Schizosaccharomyces pombe 972h-]
+length: 1478
+e value: 0.0129492
+gaps: 53
+identities: 67
+positives: 104
+score: 102.0
+PSGGQMTVKDLTAKYT-EGGNA---ILENISFSISPGQRVGLLGRTGSGKSTLLSAFLRLLNTEGEIQIDGVSWD...
+PSG  + +K  T  ++  G NA    L +I F    G+   ++G+ G GKS+LL A L      G +Q    S  ...
+PSGVCLEIKKGTFSWSGPGQNAAEPTLRDIDFVARRGELCCIVGKVGMGKSSLLEACL------GNMQKHSGS--...
+****Blast Result****
+sequence: sp|Q9P5N0.1| RecName: Full=ATP-binding cassette transporter abc3 [Schizosaccharomyces pombe 972h-]
+length: 1465
+e value: 1.42303e-83
+gaps: 49
+identities: 201
+positives: 346
+score: 782.0
+TTASTRKVSLAPQANLTELDIYSRRLSQETGLE--------ISEEINEEDLKECFFDDMESIP-AVTTWNTYLRY...
+T+  + ++SLAP  ++  L+ YS    +++  +        I +++ E+D  +C     E +      W+ Y  Y...
+TSYPSTQISLAPSIHVEGLETYSSSERKDSSNKYKSRKRNPIRQKVTEDDKGKCVAQTDELVQRGKVKWHVYWMY...
+****Blast Result****
+sequence: sp|Q9P5N0.1| RecName: Full=ATP-binding cassette transporter abc3 [Schizosaccharomyces pombe 972h-]
+length: 1465
+e value: 2.57923e-62
+gaps: 58
+identities: 178
+positives: 309
+score: 608.0
+MQRSPLEKASVVSKLFFSWTRPILRKGYRQRLELSDIYQIPSVDSADNLSEKLEREWDRELASKKNPKLINALRR...
+++ S +  A++ SKL FSW    ++ GY   L+ SD++ +P  + + NL    E  W   +   KN +     R ...
+IRPSEVRYANIFSKLSFSWISSFIKFGYTNYLKESDVWLLPPDERSGNLIIGFEDWW---IYHSKNKR-----RS...
+****Blast Result****
+sequence: sp|Q9P5N0.1| RecName: Full=ATP-binding cassette transporter abc3 [Schizosaccharomyces pombe 972h-]
+length: 1465
+e value: 2.32616e-14
+gaps: 69
+identities: 117
+positives: 218
+score: 202.0
+IAIYLGIG-LCLLFIVRTLLLHPAIFGLHHIGMQMRIAMFSLIYKKTLKLSSRVLDKISIGQLVSLLSNNLNKFD...
++ IYL  G L   FI  + L    + G+   G  +  +M     K  L+      +  S G++++  SN++ K D...
+LGIYLFFGFLSCAFISSSSLTMTVLCGIRS-GRYLHDSML----KTILRAPMGFFETTSSGRILNRFSNDVYKVD...
+****Blast Result****
+sequence: sp|Q9P5N0.1| RecName: Full=ATP-binding cassette transporter abc3 [Schizosaccharomyces pombe 972h-]
+length: 1465
+e value: 0.000862851
+gaps: 26
+identities: 52
+positives: 92
+score: 112.0
+LENISFSISPGQRVGLLGRTGSGKSTLLSAFL-RLLNTEGEIQIDGVSWDSITLQQWRKAFGVIPQKVFIFSGTF...
+L  I+F    G+   + G+ G+GKS+LL A +  +    G +   G             +     Q+ +IF  T ...
+LRQINFVAKNGELTCIFGKVGAGKSSLLEACMGNMYKNSGSVFQCG-------------SLAYAAQQPWIFDATI...
+****Blast Result****
+sequence: sp|O15440.2| RecName: Full=Multidrug resistance-associated protein 5; AltName: Full=ATP-binding cassette sub-family C member 5; AltName: Full=Multi-specific organic anion transporter C; Short=MOAT-C; AltName: Full=SMRP; AltName: Full=pABC11 [Homo sapiens]
+length: 1437
+e value: 6.54197e-83
+gaps: 30
+identities: 181
+positives: 324
+score: 777.0
+SIPAVTTWNTYLRYI-TVHKSLIFVLIWCLVIFLAEVAASLVVLWLLGNTPLQDKGNSTHSRNNSYAVIITSTSS...
+S+P    W+ Y  YI      L F++I  + +F+  V ++    W L     Q  GN+T +R N  +V  +   +...
+SVP----WSVYGVYIQAAGGPLAFLVI--MALFMLNVGSTAFSTWWLSYWIKQGSGNTTVTRGNETSVSDSMKDN...
+****Blast Result****
+sequence: sp|O15440.2| RecName: Full=Multidrug resistance-associated protein 5; AltName: Full=ATP-binding cassette sub-family C member 5; AltName: Full=Multi-specific organic anion transporter C; Short=MOAT-C; AltName: Full=SMRP; AltName: Full=pABC11 [Homo sapiens]
+length: 1437
+e value: 3.3853e-57
+gaps: 74
+identities: 174
+positives: 332
+score: 565.0
+QRSPLEKASVVSKLFFSWTRPILRKGYRQ-RLELSDIYQIPSVDSADNLSEKLEREWDRELASKKNPKLINALRR...
+ + P++ A + S + FSW   + R  +++  L + D++ +   +S+D    +LER W  EL ++  P    +LRR...
+HQHPVDNAGLFSCMTFSWLSSLARVAHKKGELSMEDVWSLSKHESSDVNCRRLERLWQEEL-NEVGPD-AASLRR...
+****Blast Result****
+sequence: sp|O15440.2| RecName: Full=Multidrug resistance-associated protein 5; AltName: Full=ATP-binding cassette sub-family C member 5; AltName: Full=Multi-specific organic anion transporter C; Short=MOAT-C; AltName: Full=SMRP; AltName: Full=pABC11 [Homo sapiens]
+length: 1437
+e value: 1.88755e-14
+gaps: 15
+identities: 54
+positives: 103
+score: 203.0
+LENISFSISPGQRVGLLGRTGSGKSTLLSAFL-RLLNTEGEIQIDGVSWDSITLQQWRKAFGVIPQKVFIFSGTF...
+L +I   I  G+ VG+ G  GSGK++L+SA L ++   EG I I G              F  + Q+ +I + T ...
+LHSIDLEIQEGKLVGICGSVGSGKTSLISAILGQMTLLEGSIAISGT-------------FAYVAQQAWILNATL...
+****Blast Result****
+sequence: sp|O15440.2| RecName: Full=Multidrug resistance-associated protein 5; AltName: Full=ATP-binding cassette sub-family C member 5; AltName: Full=Multi-specific organic anion transporter C; Short=MOAT-C; AltName: Full=SMRP; AltName: Full=pABC11 [Homo sapiens]
+length: 1437
+e value: 4.88617e-10
+gaps: 29
+identities: 55
+positives: 104
+score: 165.0
+VLKDINFKIERGQLLAVAGSTGAGKTSLLMVIMGELEPSEGKIKHSG-------------RISFCSQFSWIMPGT...
+VLK ++F I+  + + + G TG+GK+SL M +   +E S G IK  G             ++S   Q   +  GT...
+VLKKVSFTIKPKEKIGIVGRTGSGKSSLGMALFRLVELSGGCIKIDGVRISDIGLADLRSKLSIIPQEPVLFSGT...
+****Blast Result****
+sequence: sp|Q54P13.1| RecName: Full=ABC transporter C family member 8; AltName: Full=ABC transporter ABCC.8 [Dictyostelium discoideum]
+length: 1593
+e value: 7.67054e-83
+gaps: 67
+identities: 193
+positives: 343
+score: 778.0
+ASVVSKLFFSWTRPILRKGYRQRLELSDIYQIPSVDSADNLSEKLEREWDRELASKKNPKLINALRRCFFWRFMF...
+A++ S+L F W   +L KG+++ LE+SD+  +  +D +  LSEK E+ W+ +L  K NP L  AL + F   F  ...
+ANLFSRLTFWWINSVLVKGHKKALEISDVPTLGEIDQSILLSEKFEKAWEEQL-KKPNPSLPWALAKAFGPHFYI...
+****Blast Result****
+sequence: sp|Q9QYM0.1| RecName: Full=Multidrug resistance-associated protein 5; AltName: Full=ATP-binding cassette sub-family C member 5 [Rattus norvegicus]
+length: 1436
+e value: 9.13944e-83
+gaps: 26
+identities: 180
+positives: 322
+score: 775.0
+WNTYLRYI-TVHKSLIFVLIWCLVIFLAEVAASLVVLWLLGNTPLQDKGNSTHSRNNSYAVIITSTSSYYVFY--...
+W+ Y  YI      L F++I  +V+F+  V ++    W L     Q  GNST    N  +V  +   + ++ Y  ...
+WSVYWVYIQAAGGPLAFLVI--MVLFMLNVGSTAFSTWWLSYWIKQGSGNSTVFEGNRSSVSDSMRDNPFLQYYA...
+****Blast Result****
+sequence: sp|Q9QYM0.1| RecName: Full=Multidrug resistance-associated protein 5; AltName: Full=ATP-binding cassette sub-family C member 5 [Rattus norvegicus]
+length: 1436
+e value: 2.21676e-56
+gaps: 74
+identities: 172
+positives: 336
+score: 558.0
+QRSPLEKASVVSKLFFSWTRPILRKGYRQ-RLELSDIYQIPSVDSADNLSEKLEREWDRELASKKNPKLINALRR...
+ + P++ A + S + FSW  P+ +  +++  L + D++ +   +S+D    +LER W  EL ++  P    +LRR...
+HQHPVDNAGLFSYMTFSWLSPLAQVVHKKGELLMEDVWPLSKYESSDVNCRRLERLWQEEL-NEVGPD-AASLRR...
+****Blast Result****
+sequence: sp|Q9QYM0.1| RecName: Full=Multidrug resistance-associated protein 5; AltName: Full=ATP-binding cassette sub-family C member 5 [Rattus norvegicus]
+length: 1436
+e value: 2.05351e-14
+gaps: 15
+identities: 54
+positives: 103
+score: 203.0
+LENISFSISPGQRVGLLGRTGSGKSTLLSAFL-RLLNTEGEIQIDGVSWDSITLQQWRKAFGVIPQKVFIFSGTF...
+L NI   I  G+ VG+ G  GSGK++L+SA L ++   EG I + G              F  + Q+ +I + T ...
+LYNIDLEIEEGKLVGICGSVGSGKTSLISAILGQMTLLEGSIAVSGT-------------FAYVAQQAWILNATL...
+****Blast Result****
+sequence: sp|Q9QYM0.1| RecName: Full=Multidrug resistance-associated protein 5; AltName: Full=ATP-binding cassette sub-family C member 5 [Rattus norvegicus]
+length: 1436
+e value: 3.21071e-09
+gaps: 14
+identities: 51
+positives: 100
+score: 158.0
+VLKDINFKIERGQLLAVAGSTGAGKTSLLMVIMGELEPSEGKIKHSG-------------RISFCSQFSWIMPGT...
+VLK ++F I+  + + + G TG+GK+SL M +   +E S G IK  G             +++   Q   +  GT...
+VLKKVSFTIKPKEKIGIVGRTGSGKSSLGMALFRLVELSGGCIKIDGVRISDIGLADLRSKLTIIPQEPVLFSGT...
+****Blast Result****
+sequence: sp|Q9R1X5.2| RecName: Full=Multidrug resistance-associated protein 5; AltName: Full=ATP-binding cassette sub-family C member 5; AltName: Full=Multi-specific organic anion transporter C; Short=MOAT-C; AltName: Full=SMRP [Mus musculus]
+length: 1436
+e value: 9.99298e-83
+gaps: 26
+identities: 179
+positives: 320
+score: 775.0
+WNTYLRYI-TVHKSLIFVLIWCLVIFLAEVAASLVVLWLLGNTPLQDKGNST-HSRNNSYAVIITSTSSYYVFY-...
+W+ Y  YI      L F++I  +V+F+  V ++    W L     Q  GNST +  N S+       + +  +Y ...
+WSVYWVYIQAAGGPLAFLVI--MVLFMLNVGSTAFSTWWLSYWIKQGSGNSTVYQGNRSFVSDSMKDNPFMQYYA...
+****Blast Result****
+sequence: sp|Q9R1X5.2| RecName: Full=Multidrug resistance-associated protein 5; AltName: Full=ATP-binding cassette sub-family C member 5; AltName: Full=Multi-specific organic anion transporter C; Short=MOAT-C; AltName: Full=SMRP [Mus musculus]
+length: 1436
+e value: 1.98225e-58
+gaps: 74
+identities: 175
+positives: 338
+score: 575.0
+QRSPLEKASVVSKLFFSWTRPILRKGYRQ-RLELSDIYQIPSVDSADNLSEKLEREWDRELASKKNPKLINALRR...
+ + P++ A + S + FSW  P+ R  +++  L + D++ +   +S+D  S +LER W  EL ++  P    +LRR...
+HQHPVDNAGLFSYMTFSWLSPLARVVHKKGELLMEDVWPLSKYESSDVNSRRLERLWQEEL-NEVGPD-AASLRR...
+****Blast Result****
+sequence: sp|Q9R1X5.2| RecName: Full=Multidrug resistance-associated protein 5; AltName: Full=ATP-binding cassette sub-family C member 5; AltName: Full=Multi-specific organic anion transporter C; Short=MOAT-C; AltName: Full=SMRP [Mus musculus]
+length: 1436
+e value: 1.2902e-14
+gaps: 28
+identities: 69
+positives: 127
+score: 204.0
+TEGKPTKSTKPYKNGQLSKVMIIENSHVKKD-DIWPS-----GGQMTVKDLTAKYTEGGNAILENISFSISPGQR...
+T GK  KS +  ++ +   V+  +  H+  D D  PS     G Q+    L  + T      L NI   I  G+ ...
+TRGKKEKS-RQLQHTEHQAVLAEQKGHLLLDSDERPSPEEEEGKQIHTGSLRLQRT------LYNIDLEIEEGKL...
+****Blast Result****
+sequence: sp|Q9R1X5.2| RecName: Full=Multidrug resistance-associated protein 5; AltName: Full=ATP-binding cassette sub-family C member 5; AltName: Full=Multi-specific organic anion transporter C; Short=MOAT-C; AltName: Full=SMRP [Mus musculus]
+length: 1436
+e value: 8.52937e-10
+gaps: 29
+identities: 54
+positives: 104
+score: 163.0
+VLKDINFKIERGQLLAVAGSTGAGKTSLLMVIMGELEPSEGKIKHSG-------------RISFCSQFSWIMPGT...
+VLK ++F I+  + + + G TG+GK+SL M +   +E S G IK  G             +++   Q   +  GT...
+VLKKVSFTIKPKEKIGIVGRTGSGKSSLGMALFRLVELSGGCIKIDGIRISDIGLADLRSKLAIIPQEPVLFSGT...
+****Blast Result****
+sequence: sp|Q54VJ0.1| RecName: Full=ABC transporter C family member 2; AltName: Full=ABC transporter ABCC.2 [Dictyostelium discoideum]
+length: 1384
+e value: 6.30449e-82
+gaps: 31
+identities: 181
+positives: 324
+score: 768.0
+HKSLIFVLIWCLVIFLAEVAASLVVLWLLGNTPLQDKGNSTHSRNNSYAVIITSTSSYYVFYIYVGVADTLLAMG...
+H SL    + C + F++++   L   WL   T      + T+  ++ Y ++      YY   I++G     L + ...
+HGSLNLFFLTCALYFISQIIFQLSDFWLTIWT-----NDETNQHDDKYYIL------YYC--IFIGAFIVFLVVR...
+****Blast Result****
+sequence: sp|Q54VJ0.1| RecName: Full=ABC transporter C family member 2; AltName: Full=ABC transporter ABCC.2 [Dictyostelium discoideum]
+length: 1384
+e value: 9.62904e-38
+gaps: 5
+identities: 85
+positives: 129
+score: 401.0
+VLKDINFKIERGQLLAVAGSTGAGKTSLLMVIMGELEPSEGKIKHSGRISFCSQFSWIMPGTIKENIIFGVSYDE...
+VL +INF    G+L  + G  G+GKTSL+  ++GE+    G +     ISF +Q  +++  ++++NI+FG   + ...
+VLNNINFIAPAGKLTVICGIVGSGKTSLVSGLIGEIYRVSGSVNIPNNISFTTQQPFLLSTSLRDNILFGKPMNM...
+****Blast Result****
+sequence: sp|Q54VJ0.1| RecName: Full=ABC transporter C family member 2; AltName: Full=ABC transporter ABCC.2 [Dictyostelium discoideum]
+length: 1384
+e value: 3.53188e-08
+gaps: 17
+identities: 50
+positives: 92
+score: 149.0
+ILENISFSISPGQRVGLLGRTGSGKSTLLSAFL-RLLNTEGEIQI-DGVSWDSITLQQWRKAFGVIPQKVFIFSG...
++L NI+F    G+   + G  GSGK++L+S  +  +    G + I + +S+ +              Q+ F+ S ...
+VLNNINFIAPAGKLTVICGIVGSGKTSLVSGLIGEIYRVSGSVNIPNNISFTT--------------QQPFLLST...
+****Blast Result****
+sequence: sp|Q54VJ0.1| RecName: Full=ABC transporter C family member 2; AltName: Full=ABC transporter ABCC.2 [Dictyostelium discoideum]
+length: 1384
+e value: 4.39893e-08
+gaps: 6
+identities: 61
+positives: 108
+score: 149.0
+FGLHHIGMQMRIAMFSLIYKKTLKLSSRVLDKISIGQLVSLLSNNLNKFDEGLALAHF-VWIAPLQV-ALLMGLI...
+FGL    +  R A+   I++KTL+LS++     + G +++++S ++  F +     H  +++ P Q+ ALL+ L ...
+FGLQ-TSLHARGAITQKIFEKTLRLSNQAKRLYNSGTIMNIISVDVGTFSDFFWNNHIEIFVFPFQILALLILLC...
+****Blast Result****
+sequence: sp|Q54VJ0.1| RecName: Full=ABC transporter C family member 2; AltName: Full=ABC transporter ABCC.2 [Dictyostelium discoideum]
+length: 1384
+e value: 4.868e-08
+gaps: 33
+identities: 62
+positives: 102
+score: 148.0
+PVLKDINFKIERGQLLAVAGSTGAGKTSLLMVIMGELEPSEGKIKHSG-------------RISFCSQFSWIMPG...
+P LK+I+FKI     + V G TGAGK+++ + +   +E S+G I   G              +    Q  +I  G...
+PSLKNISFKINAKDHIGVVGRTGAGKSTVGISLFRMVECSKGSIFIDGVDISKVGLHELRDALGIVPQDPFIFSG...

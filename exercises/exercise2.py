@@ -18,7 +18,6 @@ class Exercise2:
         fasta_string = open(input_file_name).read()
 
         if online:
-
             result_handle = NCBIWWW.qblast("blastp", "swissprot", fasta_string, expect=E_VALUE_THRESH)
 
             with open(RESULTS_XML, "w") as out_handle:
