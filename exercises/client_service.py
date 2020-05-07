@@ -2,6 +2,7 @@ import os
 import inquirer
 from exercises.exercise1 import Exercise1
 from exercises.exercise2 import Exercise2
+from exercises.exercise3 import Exercise3
 
 
 class ClientService:
@@ -19,7 +20,9 @@ class ClientService:
     INPUT_FILES_DIRECTORY_EX1 = 'archives/exercise1/'
     DEFAULT_OUTPUT_EX1 = 'archives/prot_sequences/result.fas'
     INPUT_FILES_DIRECTORY_EX2 = 'archives/prot_sequences/'
+    INPUT_FILES_DIRECTORY_EX3 = 'archives/msa/'
     DEFAULT_OUTPUT_EX2 = 'archives/blast/blast.out'
+    DEFAULT_OUTPUT_EX3 = 'archives/clustal/msa.out'
     STARTED_PROCESSING = 'Processing Started'
     ENDING_PROCESSING = 'Processing has ended'
 
@@ -68,12 +71,14 @@ class ClientService:
                 Exercise2.run(chosen_input_file, output_file, online)
                 print(self.ENDING_PROCESSING)
         elif answer == self.EXERCISE3:
-            chosen_input_file = self.choose_input_file_menu(self.INPUT_FILES_DIRECTORY_EX1)
+            chosen_input_file = self.INPUT_FILES_DIRECTORY_EX3 \
+                                + self.choose_input_file_menu(self.INPUT_FILES_DIRECTORY_EX3, message="Choose yout input MSA file")
             if chosen_input_file == self.BACK:
                 self.start()
             else:
                 print(self.STARTED_PROCESSING)
-                Exercise1.run(chosen_input_file, self.DEFAULT_OUTPUT_EX1)
+                output_file = self.get_output_file(self.DEFAULT_OUTPUT_EX3)
+                Exercise3.run(chosen_input_file, output_file)
                 print(self.ENDING_PROCESSING)
 
         elif answer == self.EXERCISE4:
