@@ -16,12 +16,15 @@ class ClientService:
     LOCAL = "Local"
     EXIT = 'Exit'
     BACK = 'Back'
+
     INPUT_FILES_DIRECTORY_EX1 = 'archives/gb_files/'
     DEFAULT_OUTPUT_EX1 = 'archives/prot_sequences/result.fas'
     INPUT_FILES_DIRECTORY_EX2 = 'archives/prot_sequences/'
     INPUT_FILES_DIRECTORY_EX3 = 'archives/msa/'
     DEFAULT_OUTPUT_EX2 = 'archives/blast/blast.out'
     DEFAULT_OUTPUT_EX3 = 'archives/clustal/msa.out'
+    CMD_BLAST = "/usr/local/ncbi/blast/bin/blastp"
+
     STARTED_PROCESSING = 'Processing Started'
     ENDING_PROCESSING = 'Processing Ended'
 
@@ -34,8 +37,8 @@ class ClientService:
         return inquirer.prompt(questions)['choice']
 
     @staticmethod
-    def get_output_file(default_output):
-        questions = [inquirer.Path('output_file', message='What is the name and path of the output file?',
+    def get_output_file(default_output, message='What is the name and path of the output file?'):
+        questions = [inquirer.Path('output_file', message=message,
                                    default=default_output)]
         return inquirer.prompt(questions)['output_file']
 
@@ -55,6 +58,7 @@ class ClientService:
                 print(self.ENDING_PROCESSING)
 
         elif answer == self.EXERCISE2:
+            cmd_blast = self.get_output_file(self.CMD_BLAST, message='Where is blast executable located?')
             chosen_input_file = self.choose_input_file_menu(self.INPUT_FILES_DIRECTORY_EX2)
 
             if chosen_input_file == self.BACK:
@@ -70,7 +74,7 @@ class ClientService:
                     online = False
 
                 print(self.STARTED_PROCESSING)
-                Exercise2.run(chosen_input_file, output_file, online)
+                Exercise2.run(chosen_input_file, output_file, cmd_blast, online)
                 print(self.ENDING_PROCESSING)
 
         elif answer == self.EXERCISE3:

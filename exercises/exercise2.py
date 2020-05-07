@@ -8,13 +8,12 @@ from exercises.aux import Aux
 E_VALUE_THRESH = 10
 RESULTS_XML = "results.xml"
 PROT_DB = "archives/swissprot/swissprot"
-CMD_BLAST = "/usr/local/ncbi/blast/bin/blastp"
 
 
 class Exercise2:
 
     @staticmethod
-    def run(input_file_name, output_file_name, online=False):
+    def run(input_file_name, output_file_name, cmd_blast, online=False):
         fasta_string = open(input_file_name).read()
 
         if online:
@@ -25,7 +24,7 @@ class Exercise2:
             result_handle.close()
             result_handle = open(RESULTS_XML)
         else:
-            blastx_cline = NcbiblastxCommandline(cmd=CMD_BLAST, query=input_file_name, db=PROT_DB,
+            blastx_cline = NcbiblastxCommandline(cmd=cmd_blast, query=input_file_name, db=PROT_DB,
                                                  evalue=E_VALUE_THRESH, out=RESULTS_XML, outfmt=5)
             stdout, stderr = blastx_cline()
             result_handle = open(RESULTS_XML)
