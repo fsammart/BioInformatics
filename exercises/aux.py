@@ -21,7 +21,7 @@ class Aux:
         c = itertools.count()
         next(c)
         while os.path.exists(current_name):
-            current_name = "%s(%d)%s" % (basename, next(c), ext)
+            current_name = "%s_%d%s" % (basename, next(c), ext)
 
         return current_name
 
