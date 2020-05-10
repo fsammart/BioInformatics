@@ -2,6 +2,17 @@
 
 Project for the BioInformatics course at ITBA.
 
+## Archives Directory Description
+
+Here you will find related with the input and output of every exercise.
+
+- blast: output of exercise 2.
+- clustal: output of exercise 3.
+- gb_files: input for exercise 1.
+- msa: Input for exercise 3.
+- prot_sequences: AA sequences. Also output of exercise 1 and input of exercise 2.
+- swissprot: this is the swissprot DB used for local blas.
+
 ## Installation 
 ```
 sudo apt install python3
