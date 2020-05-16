@@ -11,7 +11,7 @@ Here you will find related with the input and output of every exercise.
 - gb_files: input for exercise 1.
 - msa: Input for exercise 3.
 - prot_sequences: AA sequences. Also output of exercise 1 and input of exercise 2.
-- swissprot: this is the swissprot DB used for local blas.
+- *swissprot*: DB for local blast should be located here. Otherwise change PROT_DB variable in exercise2.py and point it to your DB.
 
 ## Installation 
 ```
@@ -63,6 +63,13 @@ sudo apt-get install ncbi-blast+
 
 ### Exercise 3
 Place your msa.fasta files in the archives/msa folder
+
+### Excercise 4
+
+Results of the blast filtered with the input pattern will be stored by default in 'archives/blast/file_name' and the 
+fasta file in 'archives/prot_sequences/file_name.fasta'
+
+Accession numbers from the blast hits are used for the fasta retrieval.
 
 #### Requisites
 - Install ClustalW from here:  http://www.clustal.org/omega/
