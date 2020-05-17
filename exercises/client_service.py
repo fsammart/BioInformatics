@@ -51,6 +51,11 @@ class ClientService:
                                    default=default_output)]
         return inquirer.prompt(questions)['output_file']
 
+    @staticmethod
+    def get_text(default_pattern='Mus Musculus', message='What is the pattern you want to use?'):
+        questions = [inquirer.Text('pattern', message=message, default=default_pattern)]
+        return inquirer.prompt(questions)['pattern']
+
     def start(self):
         answer = self.get_menu_answer(self.MAIN_MENU, message="Which exercise would you like to run?")
 
@@ -105,7 +110,7 @@ class ClientService:
                 self.start()
             else:
                 chosen_input_file = self.INPUT_FILES_DIRECTORY_EX4 + chosen_input_file
-                pattern = 'Mus Musculus'
+                pattern = self.get_text()
                 output_file = self.get_output_file(self.DEFAULT_OUTPUT_EX4 + '_' + pattern + '.out')
                 print(self.STARTED_PROCESSING)
                 Exercise4.run(chosen_input_file, pattern, output_file, self.EX4_RESULT_SIZE)
