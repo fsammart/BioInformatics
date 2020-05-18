@@ -4,6 +4,7 @@ from exercises.exercise1 import Exercise1
 from exercises.exercise2 import Exercise2
 from exercises.exercise3 import Exercise3
 from exercises.exercise4 import Exercise4
+from exercises.exercise5 import Exercise5
 
 
 class ClientService:
@@ -13,22 +14,30 @@ class ClientService:
     EXERCISE3 = 'Exercise 3'
     EXERCISE4 = 'Exercise 4'
     EXERCISE5 = 'Exercise 5'
-    EXERCISE6 = 'Exercise 6'
+
     PROTEIN = 'Protein'
     NUCLEIC = 'Nucleic'
     ONLINE = "Online"
     LOCAL = "Local"
+    MOTIFS = "Motifs"
+    ORF = "ORF"
     EXIT = 'Exit'
     BACK = 'Back'
 
     INPUT_FILES_DIRECTORY_EX1 = 'archives/gb_files/'
-    DEFAULT_OUTPUT_EX1 = 'archives/prot_sequences/result.fas'
     INPUT_FILES_DIRECTORY_EX2 = 'archives/prot_sequences/'
     INPUT_FILES_DIRECTORY_EX3 = 'archives/msa/'
     INPUT_FILES_DIRECTORY_EX4 = 'archives/blast/'
+    INPUT_FILES_DIRECTORY_EX5_FAS = 'archives/prot_sequences/'
+    INPUT_FILES_DIRECTORY_EX5_GB = 'archives/gb_files/'
+
+    DEFAULT_OUTPUT_EX1 = 'archives/prot_sequences/result.fas'
     DEFAULT_OUTPUT_EX2 = 'archives/blast/blast.out'
     DEFAULT_OUTPUT_EX3 = 'archives/clustal/msa.out'
     DEFAULT_OUTPUT_EX4 = 'archives/blast/blast_pattern_hits'
+    DEFAULT_OUTPUT_EX5_PROSITE = 'archives/prosite/prosite_output.out'
+    DEFAULT_OUTPUT_EX5_ORF = 'archives/orf/orf_output.out'
+
     CMD_BLAST_LINUX = "/usr/bin/blastp"
     CMD_BLAST_MACOS = "/usr/local/ncbi/blast/bin/blastp"
 
@@ -37,8 +46,9 @@ class ClientService:
     STARTED_PROCESSING = 'Processing Started'
     ENDING_PROCESSING = 'Processing Ended'
 
-    MAIN_MENU = [EXERCISE1, EXERCISE2, EXERCISE3,EXERCISE4, EXIT]
+    MAIN_MENU = [EXERCISE1, EXERCISE2, EXERCISE3, EXERCISE4, EXERCISE5, EXIT]
     PROCESSING_TYPES = [ONLINE, LOCAL]
+    EX5_TYPES = [MOTIFS, ORF]
 
     @staticmethod
     def get_menu_answer(menu, message='What do you want to do?'):
@@ -115,6 +125,27 @@ class ClientService:
                 print(self.STARTED_PROCESSING)
                 Exercise4.run(chosen_input_file, pattern, output_file, self.EX4_RESULT_SIZE)
                 print(self.ENDING_PROCESSING)
+
+        elif answer == self.EXERCISE5:
+            type = self.get_menu_answer(self.EX5_TYPES)
+            fasta_file = None
+            gb_file = None
+            output_file = None
+
+            if type == self.MOTIFS:
+                fasta_file = self.INPUT_FILES_DIRECTORY_EX5_FAS +\
+                                    self.choose_input_file_menu(self.INPUT_FILES_DIRECTORY_EX5_FAS,
+                                                                message="Choose your input fasta file")
+                output_file = self.get_output_file(self.DEFAULT_OUTPUT_EX5_PROSITE)
+            else:
+                gb_file = self.INPUT_FILES_DIRECTORY_EX5_GB + \
+                                    self.choose_input_file_menu(self.INPUT_FILES_DIRECTORY_EX5_GB,
+                                                                message="Choose your input gbk file")
+                output_file = self.get_output_file(self.DEFAULT_OUTPUT_EX5_ORF)
+
+            print(self.STARTED_PROCESSING)
+            Exercise5.run(fasta_file, gb_file, output_file)
+            print(self.ENDING_PROCESSING)
 
     def choose_input_file_menu(self, directory=INPUT_FILES_DIRECTORY_EX1, message="Which input file do you choose?"):
         files = self.get_files_from_directory(directory)

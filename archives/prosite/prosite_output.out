@@ -1,0 +1,64 @@
+########################################
+# Program: patmatmotifs
+# Rundate: Sun 17 May 2020 21:19:11
+# Commandline: patmatmotifs
+#    [-sequence] temp_fasta.fasta
+#    [-outfile] archives/prosite/prosite_output.out
+# Report_format: dbmotif
+# Report_file: archives/prosite/prosite_output.out
+########################################
+
+#=======================================
+#
+# Sequence: NM_000492.4     from: 1   to: 1480
+# HitCount: 4
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/local/emboss/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 8
+Start = position 1244 of sequence
+End = position 1251 of sequence
+
+Motif = ATP_GTP_A
+
+RVGLLGRTGSGKSTLLSA
+     |      |
+  1244      1251
+
+Length = 8
+Start = position 458 of sequence
+End = position 465 of sequence
+
+Motif = ATP_GTP_A
+
+LLAVAGSTGAGKTSLLMV
+     |      |
+   458      465
+
+Length = 15
+Start = position 548 of sequence
+End = position 562 of sequence
+
+Motif = ABC_TRANSPORTER_1
+
+EGGITLSGGQRARISLARAVYKDAD
+     |             |
+   548             562
+
+Length = 3
+Start = position 1478 of sequence
+End = position 1480 of sequence
+
+Motif = MICROBODIES_CTER
+
+EEVQDTRL
+     | |
+  1478 1480
+
+
+#---------------------------------------
+#---------------------------------------

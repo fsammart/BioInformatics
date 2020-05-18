@@ -8,6 +8,7 @@ import regex as re
 
 CODON_LENGTH = 3
 
+
 class Exercise1:
 
     @staticmethod

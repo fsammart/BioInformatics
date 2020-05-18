@@ -77,3 +77,17 @@ Accession numbers from the blast hits are used for the fasta retrieval.
 ```
 sudo apt-get install -y clustalo 
 ```
+
+### Excercise 5
+
+Install the EMBOSS-6.5.7.tar.gz by downloading it from 
+ftp://emboss.open-bio.org/pub/EMBOSS/old/6.5.0/. Once downloaded run
+```
+./configure --prefix=/usr/local/emboss
+make                    
+make install
+```
+Add the path /usr/local/emboss/bin to the /etc/paths file.
+
+Download the prosite.dat and prosite.doc files from ftp://ftp.expasy.org/databases/prosite 
+and place them in the prosite folder.
