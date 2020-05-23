@@ -1,0 +1,11 @@
+positives: 1368
+score: 6464.0
+MQRSPLEKASVVSKLFFSWTRPILRKGYRQRLELSDIYQIPSVDSADNLSEKLEREWDRELASKKNPKLINALRR...
+MQRSPLE+A++ SKLFFSWT+PIL+KGYRQ LELSDIYQIP+ DSADNLSEKLEREWDRELASKKNPKLINALRR...
+MQRSPLERANLFSKLFFSWTKPILKKGYRQHLELSDIYQIPTADSADNLSEKLEREWDRELASKKNPKLINALRR...
+****Blast Result****
+sequence: gnl|BL_ORD_ID|39661 P26361.2 RecName: Full=Cystic fibrosis transmembrane conductance regulator; Short=CFTR; AltName: Full=ATP-binding cassette sub-family C member 7; AltName: Full=Channel conductance-controlling ATPase; AltName: Full=cAMP-dependent chloride channel [Mus musculus]
+length: 1476
+e value: 0.0
+gaps: 6
+
