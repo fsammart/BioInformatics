@@ -10,7 +10,7 @@ def get_motifs(fasta_file, output_file):
         f.close()
 
         os.system('prosextract -prositedir archives/prosite')
-        os.system("patmatmotifs temp_fasta.fasta " + output_file)
+        os.system('patmatmotifs temp_fasta.fasta ' + output_file)
         os.remove('temp_fasta.fasta')
 
 

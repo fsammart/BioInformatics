@@ -25,7 +25,7 @@ class Exercise4:
                         break
                     accession = full_accession[7:15]
                     content = urllib.request.urlretrieve("https://www.uniprot.org/uniprot/" + accession + ".fasta",
-                                                         'archives/prot_sequences/'+accession + ".fasta")
+                                                         'archives/prot_sequences/'+ accession + ".fasta")
                     with open(output_file_name, "a") as out_handle:
                         print(chunk, file=out_handle)
                 if not next_n_lines:
