@@ -1,10 +1,13 @@
 import os
+import sys
 import inquirer
 from exercises.exercise1 import Exercise1
 from exercises.exercise2 import Exercise2
 from exercises.exercise3 import Exercise3
 from exercises.exercise4 import Exercise4
 from exercises.exercise5 import Exercise5
+from exercises.greedy import Greedy
+from ast import literal_eval
 
 
 class ClientService:
@@ -14,6 +17,7 @@ class ClientService:
     EXERCISE3 = 'Exercise 3'
     EXERCISE4 = 'Exercise 4'
     EXERCISE5 = 'Exercise 5'
+    GREEDY    = 'Greedy Reversals'
 
     PROTEIN = 'Protein'
     NUCLEIC = 'Nucleic'
@@ -46,7 +50,7 @@ class ClientService:
     STARTED_PROCESSING = 'Processing Started'
     ENDING_PROCESSING = 'Processing Ended'
 
-    MAIN_MENU = [EXERCISE1, EXERCISE2, EXERCISE3, EXERCISE4, EXERCISE5, EXIT]
+    MAIN_MENU = [EXERCISE1, EXERCISE2, EXERCISE3, EXERCISE4, EXERCISE5, GREEDY, EXIT]
     PROCESSING_TYPES = [ONLINE, LOCAL]
     EX5_TYPES = [MOTIFS, ORF]
 
@@ -145,6 +149,13 @@ class ClientService:
 
             print(self.STARTED_PROCESSING)
             Exercise5.run(fasta_file, gb_file, output_file)
+            print(self.ENDING_PROCESSING)
+
+        elif answer == self.GREEDY:
+            #array = sys.argv[1]
+            #if array == None:
+            array = literal_eval(self.get_text(default_pattern='[1,-3,2,-4]', message='Enter array (Ej. [1,-3,2,-4]):'))
+            Greedy.run(array)
             print(self.ENDING_PROCESSING)
 
     def choose_input_file_menu(self, directory=INPUT_FILES_DIRECTORY_EX1, message="Which input file do you choose?"):
