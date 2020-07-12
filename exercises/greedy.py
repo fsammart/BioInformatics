@@ -16,7 +16,7 @@ def greedy_reordering(lst):
             else:
                 # If we cannot find it, means it has the negative sign.
                 id_i = lst.index(-abs(i+1))
-            # We reverse from the current position, to the one with the element.    
+            # We reverse from the current position, to the one with the element.
             lst[i: id_i + 1] = reversal(lst[i: id_i + 1])
             reversals.append(lst[:])
         # We check if the element has the right sign.
@@ -26,9 +26,26 @@ def greedy_reordering(lst):
 
     return reversals
 
+def count_breakpoints(lst):
+    '''
+    Returns number of breakpoint in sequence.
+    (pi,pi+1) is a breakpoint <-> pi+1 − pi is equal to 1. Ej.: (4,5) or
+    (-5,-4)
+    '''
+    count = 0;
+
+    for i in range(len(lst) - 1):
+        if (lst[i+1] - lst[i] != 1):
+            count+= 1
+
+    return count
+
+
+
 class Greedy:
     @staticmethod
     def run(disordered_array):
+        print('Breakpoints = ' + str(count_breakpoints(disordered_array)))
         reversals = greedy_reordering(disordered_array)
         print('Drev = ' + str(len(reversals)))
         for elem in reversals:
