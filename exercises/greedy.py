@@ -1,3 +1,5 @@
+import os
+
 def reversal(seq):
     seq.reverse()
     seq = map(lambda x: -x, seq)
@@ -6,6 +8,7 @@ def reversal(seq):
 
 def greedy_reordering(lst):
     reversals = []
+    steps = []
 
     for i in range(len(lst)):
         # We check if the element is in the right position.
@@ -17,14 +20,16 @@ def greedy_reordering(lst):
                 # If we cannot find it, means it has the negative sign.
                 id_i = lst.index(-abs(i+1))
             # We reverse from the current position, to the one with the element.
+            steps.append([i,id_i])
             lst[i: id_i + 1] = reversal(lst[i: id_i + 1])
             reversals.append(lst[:])
         # We check if the element has the right sign.
         if lst[i] == -(i+1):
             lst[i] = i+1
             reversals.append(lst[:])
+            steps.append([i,i])
 
-    return reversals
+    return reversals,steps
 
 def count_breakpoints(lst):
     '''
@@ -41,12 +46,22 @@ def count_breakpoints(lst):
     return count
 
 
-
+path_to_grappa = '/Users/franciscosammartino/ITBA/BioInformatics/GRAPPA20/'
 class Greedy:
     @staticmethod
     def run(disordered_array):
+        s = '>S1\n'
+        base = '\n>S2\n'
+        for i,n in enumerate(disordered_array):
+            s += str(n) + ' '
+            base += str(i+1) + ' '
         print('Breakpoints = ' + str(count_breakpoints(disordered_array)))
-        reversals = greedy_reordering(disordered_array)
-        print('Drev = ' + str(len(reversals)))
-        for elem in reversals:
-            print(elem)
+        reversals,steps = greedy_reordering(disordered_array)
+        print('Reversals Count = ' + str(len(reversals)))
+        print('\n')
+        for idx,elem in enumerate(reversals):
+            print('Reversal Idx:',steps[idx],'-> ', elem)
+        os.system('echo "' + s + base + '" >' + path_to_grappa + 'modified.so' )
+        print('\n\nMinimum Reversals Bader, D.A., Moret, B.M.E., and Yan, M. \n')
+        os.system(path_to_grappa + './invdist -f ' + path_to_grappa + 'modified.so | grep "Inversion Distance"')
+        print('\n')

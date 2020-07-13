@@ -7,7 +7,6 @@ from exercises.exercise3 import Exercise3
 from exercises.exercise4 import Exercise4
 from exercises.exercise5 import Exercise5
 from exercises.greedy import Greedy
-from exercises.breakpoint_reversal import BreakpointsReversal
 from ast import literal_eval
 
 
