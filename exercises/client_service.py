@@ -7,6 +7,8 @@ from exercises.exercise3 import Exercise3
 from exercises.exercise4 import Exercise4
 from exercises.exercise5 import Exercise5
 from exercises.greedy import Greedy
+from exercises.breakpoints_reversal import BreakpointsReversal
+from exercises.circular_reversal import CircularReversal
 from ast import literal_eval
 
 
@@ -19,6 +21,7 @@ class ClientService:
     EXERCISE5 = 'Exercise 5'
     GREEDY    = 'Greedy Reversals'
     BREAKPOINTS = 'Breakpoints Reversals'
+    CIRCULAR = 'Circular Reversal'
 
     PROTEIN = 'Protein'
     NUCLEIC = 'Nucleic'
@@ -51,7 +54,7 @@ class ClientService:
     STARTED_PROCESSING = 'Processing Started'
     ENDING_PROCESSING = 'Processing Ended'
 
-    MAIN_MENU = [EXERCISE1, EXERCISE2, EXERCISE3, EXERCISE4, EXERCISE5, GREEDY, BREAKPOINTS, EXIT]
+    MAIN_MENU = [EXERCISE1, EXERCISE2, EXERCISE3, EXERCISE4, EXERCISE5, GREEDY, BREAKPOINTS, CIRCULAR, EXIT]
     PROCESSING_TYPES = [ONLINE, LOCAL]
     EX5_TYPES = [MOTIFS, ORF]
 
@@ -159,11 +162,18 @@ class ClientService:
             Greedy.run(array)
             print(self.ENDING_PROCESSING)
 
+
         elif answer == self.BREAKPOINTS:
             #array = sys.argv[1]
             #if array == None:
+            input = self.get_text(default_pattern='[1,-3,2,-4]', message='Enter array (Ej. [1,-3,2,-4]')
+            BreakpointsReversal.run(input)
+            print(self.ENDING_PROCESSING)
+        elif answer == self.CIRCULAR:
+            #array = sys.argv[1]
+            #if array == None:
             array = literal_eval(self.get_text(default_pattern='[1,-3,2,-4]', message='Enter array (Ej. [1,-3,2,-4])'))
-            BreakpointsReversal.run(array)
+            CircularReversal.run(array)
             print(self.ENDING_PROCESSING)
 
     def choose_input_file_menu(self, directory=INPUT_FILES_DIRECTORY_EX1, message="Which input file do you choose?"):
