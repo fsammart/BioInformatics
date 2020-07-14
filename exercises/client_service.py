@@ -158,7 +158,7 @@ class ClientService:
         elif answer == self.GREEDY:
             #array = sys.argv[1]
             #if array == None:
-            array = literal_eval(self.get_text(default_pattern='[1,-3,2,-4]', message='Enter array (Ej. [1,-3,2,-4])'))
+            array = literal_eval(self.get_text(default_pattern='[-2,3,4,1,-5,-6]', message='Enter array (Ej. [1,-3,2,-4])'))
             Greedy.run(array)
             print(self.ENDING_PROCESSING)
 
@@ -166,13 +166,13 @@ class ClientService:
         elif answer == self.BREAKPOINTS:
             #array = sys.argv[1]
             #if array == None:
-            input = self.get_text(default_pattern='[1,-3,2,-4]', message='Enter array (Ej. [1,-3,2,-4]')
+            input = self.get_text(default_pattern='[-2,3,4,1,-5,-6]', message='Enter array (Ej. [1,-3,2,-4]')
             BreakpointsReversal.run(input)
             print(self.ENDING_PROCESSING)
         elif answer == self.CIRCULAR:
             #array = sys.argv[1]
             #if array == None:
-            array = literal_eval(self.get_text(default_pattern='[1,-3,2,-4]', message='Enter array (Ej. [1,-3,2,-4])'))
+            array = literal_eval(self.get_text(default_pattern='[-2,3,4,1,-5,-6]', message='Enter array (Ej. [1,-3,2,-4])'))
             CircularReversal.run(array)
             print(self.ENDING_PROCESSING)
 

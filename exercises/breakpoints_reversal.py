@@ -10,4 +10,4 @@ class BreakpointsReversal:
         n = len(literal_eval(disordered_array))
         disordered_array = disordered_array.replace('[','').replace(']','')
 
-        os.system(path_to_breakpoints + './prog_o -a sr -v4 -n' + str(n) + ' -p '+ disordered_array)
+        os.system(path_to_breakpoints + './prog_o -a sr_g -v4 -n' + str(n) + ' -p '+ disordered_array)
